@@ -1,6 +1,6 @@
 # 计算精神病学在线文献报告讨论会(Computational psychiatry online journal club(CPoJC))
 
-* 组委会成员： [Haiyang Geng 耿海洋(HKU)](https://www.psychology.hku.hk/scnlab/people.html), [Ruyuan Zhang 张洳源(SJTU)](http://ruyuanzhang.github.io/), Ying Li李瑛(BJCH), [Chao Li黎超(CMU)](https://github.com/easylearn-fmri/easylearn_dev), [Lei Zhang张磊(VU)](https://lei-zhang.net/about/)
+* 组委会成员： [Haiyang Geng 耿海洋(HKU)](https://www.psychology.hku.hk/scnlab/people.html), [Ruyuan Zhang 张洳源(SJTU)](http://ruyuanzhang.github.io/), [Ying Li李瑛(BJCH)](https://scholar.google.com/citations?user=ae_5wyMAAAAJ&hl=en&oi=ao), [Chao Li黎超(CMU)](https://github.com/easylearn-fmri/easylearn_dev), [Lei Zhang张磊(VU)](https://lei-zhang.net/about/)
 
 * 微信群：计算精神病学
 
