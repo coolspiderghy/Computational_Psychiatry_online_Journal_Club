@@ -20,10 +20,8 @@
 
 | 期号 |                             文献                             | 报告人 | 日期    |
 | :--: | :----------------------------------------------------------: | :----: | ------- |
-|  4   | Identifying and validating subtypes within major psychiatric disorders based on frontal–posterior functional imbalance via deep learning. Molecular Psychiatry. https://doi.org/10.1038/s41380-020-00892-3 |  黎超  | 2月4号  |
-|  5   |                                                              |        | 2月18日 |
-|  6   | Identification of neurobehavioural symptom groups based on shared brain mechanisms. Nature Human Behaviour, 3(12), 1306–1318. https://doi.org/10.1038/s41562-019-0738-8 |  刘威  | 2月25日 |
-|  7   |                Computational psychiatry Intro                |  张磊  | 3月11日 |
+|  5   | Identification of neurobehavioural symptom groups based on shared brain mechanisms. Nature Human Behaviour, 3(12), 1306–1318. https://doi.org/10.1038/s41562-019-0738-8 |  刘威  | 2月25日 |
+|  6   |                Computational psychiatry Intro                |  张磊  | 3月11日 |
 
 ## 往期报告
 
@@ -32,3 +30,4 @@
 |  1   | Pavlovian conditioning–induced hallucinations result from overweighting of perceptual priors. Science, 357(6351), 596–600. https://doi.org/10.1126/science.aan3458 |   耿海洋    | 12月24号号 |
 |  2   | An integrative framework for perceptual disturbances in psychosis. Nature Reviews Neuroscience, 20(12), 763–778. https://doi.org/10.1038/s41583-019-0234-1 |    李瑛     | 12月31号   |
 |  3   | Anxious individuals have difficulty learning the causal statistics of aversive environments. Nature Neuroscience, 18(4), 590–596. https://doi.org/10.1038/nn.3961 | 全湘 张洳源 | 1月28号    |
+|  4   | Identifying and validating subtypes within major psychiatric disorders based on frontal–posterior functional imbalance via deep learning. Molecular Psychiatry. https://doi.org/10.1038/s41380-020-00892-3 |    黎超     | 2月4号     |
