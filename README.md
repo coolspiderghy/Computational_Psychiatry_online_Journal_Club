@@ -16,7 +16,7 @@
 1. 加强领域内同行的讨论和交流。
 2. 促进基础研究领域和临床领域的合作。
 
-**微信群二维码：**
+**微信群二维码（定期更新中）：**
 <img width="255" alt="Screen Shot 2021-03-01 at 10 50 26 AM" src="https://user-images.githubusercontent.com/6756128/109446108-0a2a2680-7a7c-11eb-8901-4e2081e72aa0.png">
 
 ## 日程安排
