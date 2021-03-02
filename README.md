@@ -27,10 +27,10 @@
 
 ## 日程安排
 
-| 期号 |              文献              | 报告人 | 日期    |
-| :--: | :----------------------------: | :----: | ------- |
-|  6   | Computational psychiatry Intro |  张磊  | 3月11日 |
-|      |                                |        |         |
+| 期号 |                             文献                             | 报告人 | 日期    |
+| :--: | :----------------------------------------------------------: | :----: | ------- |
+|  6   | Gagne, C., Zika, O., Dayan, P., & Bishop, S. J. (2020). Impaired adaptation of learning to contingency volatility in internalizing psychopathology. ELife, 9, e61387. https://doi.org/10.7554/eLife.61387 | 王志豪 | 3月11日 |
+|  7   |                Computational psychiatry Intro                |  张磊  | 3月25日 |
 
 ## 往期报告
 
