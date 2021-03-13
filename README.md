@@ -23,7 +23,7 @@
 2. 促进基础研究领域和临床领域的合作。
 
 **微信群二维码（定期更新中，3月20日前有效）：**
-<img src="/Users/genghaiyang/Desktop/WechatIMG159.jpeg" style="zoom:20%;" />
+<img src="./WechatIMG159.jpeg" style="zoom:20%;" />
 
 ## 日程安排
 
