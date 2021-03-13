@@ -24,7 +24,7 @@
 
 **微信群二维码（定期更新中，3月20日前有效）：**
 
-![](./WechatIMG159.jpeg =100x100)
+<img src="./WechatIMG159.jpeg" width="20%" height="20%">
 
 ## 日程安排
 
