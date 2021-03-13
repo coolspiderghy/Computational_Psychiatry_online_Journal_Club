@@ -22,15 +22,15 @@
 1. 加强领域内同行的讨论和交流。
 2. 促进基础研究领域和临床领域的合作。
 
-**微信群二维码（定期更新中，3月8日前有效）：**
-<img width="255" alt="Screen Shot 2021-03-01 at 10 50 26 AM" src="https://user-images.githubusercontent.com/6756128/109446108-0a2a2680-7a7c-11eb-8901-4e2081e72aa0.png">
+**微信群二维码（定期更新中，3月20日前有效）：**
+![image-20210313235920485](/Users/genghaiyang/Library/Application Support/typora-user-images/image-20210313235920485.png)
 
 ## 日程安排
 
-| 期号 |                             文献                             | 报告人 | 日期    |
-| :--: | :----------------------------------------------------------: | :----: | ------- |
-|  6   | Gagne, C., Zika, O., Dayan, P., & Bishop, S. J. (2020). Impaired adaptation of learning to contingency volatility in internalizing psychopathology. ELife, 9, e61387. https://doi.org/10.7554/eLife.61387 | 王志豪 | 3月11日 |
-|  7   |                Computational psychiatry Intro                |  张磊  | 3月25日 |
+| 期号 |              文献              | 报告人 | 日期    |
+| :--: | :----------------------------: | :----: | ------- |
+|  7   | Computational psychiatry Intro |  张磊  | 3月25日 |
+|      |                                |        |         |
 
 ## 往期报告
 
@@ -41,6 +41,7 @@
 |  3   | Anxious individuals have difficulty learning the causal statistics of aversive environments. Nature Neuroscience, 18(4), 590–596. https://doi.org/10.1038/nn.3961 | 全湘 张洳源 | 1月28号    |
 |  4   | Identifying and validating subtypes within major psychiatric disorders based on frontal–posterior functional imbalance via deep learning. Molecular Psychiatry. https://doi.org/10.1038/s41380-020-00892-3 |    黎超     | 2月4号     |
 |  5   | Identification of neurobehavioural symptom groups based on shared brain mechanisms. Nature Human Behaviour, 3(12), 1306–1318. https://doi.org/10.1038/s41562-019-0738-8 |    刘威     | 2月25日    |
+|  6   | Gagne, C., Zika, O., Dayan, P., & Bishop, S. J. (2020). Impaired adaptation of learning to contingency volatility in internalizing psychopathology. ELife, 9, e61387. https://doi.org/10.7554/eLife.61387 |   王志豪    | 3月11日    |
 
 ## 国际认知计算神经科学前沿研讨会
 
