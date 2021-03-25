@@ -10,9 +10,9 @@
 
 * 微信群：计算精神病学
 
-* 腾讯会议房间：ID: 343 1825 8253（3月25日会议ID:578 288 223）
+* 腾讯会议房间：ID: 343 1825 8253
 
-* 时间： 每周四晚上8点(北京时间)	（3月25日时间为晚7点）
+* 时间： 每周四晚上8点(北京时间)	
 
 * 欢迎对这个主题感兴趣的老师同学进群，大家一起学习讨论。联系人：耿海洋（miller.geng@gmail.com）
 * 合作组织：[Chinese Open Science Network(COSN)](https://open-sci.cn/)(也可以关注 COSN Events，我们会定期更新JC的相关信息)
@@ -28,21 +28,22 @@
 
 ## 日程安排
 
-| 期号 |              文献              | 报告人 | 日期    |
-| :--: | :----------------------------: | :----: | ------- |
-|  7   | Computational psychiatry Intro |  张磊  | 3月25日 |
-|      |                                |        |         |
+| 期号 | 文献 | 报告人 | 日期 |
+| :--: | :--: | :----: | ---- |
+|      |      |        |      |
+|      |      |        |      |
 
 ## 往期报告
 
-| 期号 |                             文献                             |   报告人    | 日期       |
-| :--: | :----------------------------------------------------------: | :---------: | ---------- |
+| 期号 | 文献                                                         |   报告人    | 日期       |
+| :--: | :----------------------------------------------------------- | :---------: | ---------- |
 |  1   | Pavlovian conditioning–induced hallucinations result from overweighting of perceptual priors. Science, 357(6351), 596–600. https://doi.org/10.1126/science.aan3458 |   耿海洋    | 12月24号号 |
 |  2   | An integrative framework for perceptual disturbances in psychosis. Nature Reviews Neuroscience, 20(12), 763–778. https://doi.org/10.1038/s41583-019-0234-1 |    李瑛     | 12月31号   |
 |  3   | Anxious individuals have difficulty learning the causal statistics of aversive environments. Nature Neuroscience, 18(4), 590–596. https://doi.org/10.1038/nn.3961 | 全湘 张洳源 | 1月28号    |
 |  4   | Identifying and validating subtypes within major psychiatric disorders based on frontal–posterior functional imbalance via deep learning. Molecular Psychiatry. https://doi.org/10.1038/s41380-020-00892-3 |    黎超     | 2月4号     |
 |  5   | Identification of neurobehavioural symptom groups based on shared brain mechanisms. Nature Human Behaviour, 3(12), 1306–1318. https://doi.org/10.1038/s41562-019-0738-8 |    刘威     | 2月25日    |
 |  6   | Gagne, C., Zika, O., Dayan, P., & Bishop, S. J. (2020). Impaired adaptation of learning to contingency volatility in internalizing psychopathology. ELife, 9, e61387. https://doi.org/10.7554/eLife.61387 |   王志豪    | 3月11日    |
+|  7   | Computational psychiatry Intro                               |    张磊     | 3月25日    |
 
 ## 国际认知计算神经科学前沿研讨会
 
