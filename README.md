@@ -43,7 +43,7 @@
 |  4   | Identifying and validating subtypes within major psychiatric disorders based on frontal–posterior functional imbalance via deep learning. Molecular Psychiatry. https://doi.org/10.1038/s41380-020-00892-3 |    黎超     | 2月4号     |                                                              |
 |  5   | Identification of neurobehavioural symptom groups based on shared brain mechanisms. Nature Human Behaviour, 3(12), 1306–1318. https://doi.org/10.1038/s41562-019-0738-8 |    刘威     | 2月25日    |                                                              |
 |  6   | Gagne, C., Zika, O., Dayan, P., & Bishop, S. J. (2020). Impaired adaptation of learning to contingency volatility in internalizing psychopathology. ELife, 9, e61387. https://doi.org/10.7554/eLife.61387 |   王志豪    | 3月11日    |                                                              |
-|  7   | Computational psychiatry Intro                               |    张磊     | 3月25日    | [视频]((https://www.bilibili.com/video/BV1SK411c7UJ/)), [PPT](https://github.com/lei-zhang/COSN_webinar/tree/master/20210325_Computational_Psychiatry) |
+|  7   | Computational psychiatry Intro                               |    张磊     | 3月25日    | [视频](https://www.bilibili.com/video/BV1SK411c7UJ/), [PPT](https://github.com/lei-zhang/COSN_webinar/tree/master/20210325_Computational_Psychiatry) |
 
 ## 国际认知计算神经科学前沿研讨会
 
