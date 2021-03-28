@@ -24,7 +24,7 @@
 
 **微信群小助手二维码**：
 
-<img src="./WechatIMG159.jpeg" alt="drawing" width="100"/>
+<img src="./WechatIMG159.jpeg" alt="drawing" width="200"/>
 
 ## 日程安排
 
