@@ -24,7 +24,7 @@
 
 **微信群小助手二维码**：
 
-<img src="./WechatIMG159.jpeg" alt="WechatIMG159" style="zoom:25%;" />
+<img src="./WechatIMG159.jpeg" alt="WechatIMG159" style="zoom:10%;" />
 
 
 
