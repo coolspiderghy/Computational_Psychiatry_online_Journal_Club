@@ -22,7 +22,9 @@
 1. 加强领域内同行的讨论和交流。
 2. 促进基础研究领域和临床领域的合作。
 
-**微信群小助手二维码：<img src="./WechatIMG159.jpeg" alt="WechatIMG159" style="zoom:50%;" />
+**微信群小助手二维码**：
+
+<img src="./WechatIMG159.jpeg" alt="WechatIMG159" style="zoom:25%;" />
 
 
 
