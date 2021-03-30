@@ -28,10 +28,10 @@
 
 ## 日程安排
 
-| 期号 | 文献 | 报告人 | 日期 |
-| :--: | :--: | :----: | ---- |
-|      |      |        |      |
-|      |      |        |      |
+| 期号 |                             文献                             | 报告人 | 日期   |
+| :--: | :----------------------------------------------------------: | :----: | ------ |
+|  8   | Hein, T. P., de Fockert, J., & Ruiz, M. H. (2021). State anxiety biases estimates of uncertainty and impairs reward learning in volatile environments. NeuroImage, 224, 117424. https://doi.org/10.1016/j.neuroimage.2020.117424 | 窦皓然 | 4月8日 |
+|      |                                                              |        |        |
 
 ## 往期报告
 
