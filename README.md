@@ -24,7 +24,7 @@
 
 **请加小助手微信入群**：
 
-<img src="./WechatIMG159.jpeg" alt="drawing" width="200"/>
+<img src="./a.jpeg" alt="drawing" width="200"/>
 
 ## 日程安排
 
