@@ -28,10 +28,10 @@
 
 ## 日程安排
 
-| 期号 |                             文献                             | 报告人 | 日期   |
-| :--: | :----------------------------------------------------------: | :----: | ------ |
-|  8   | Hein, T. P., de Fockert, J., & Ruiz, M. H. (2021). State anxiety biases estimates of uncertainty and impairs reward learning in volatile environments. NeuroImage, 224, 117424. https://doi.org/10.1016/j.neuroimage.2020.117424 | 窦皓然 | 4月8日 |
-|      |                                                              |        |        |
+| 期号 | 文献 | 报告人 | 日期 |
+| :--: | :--: | :----: | ---- |
+|      |      |        |      |
+|      |      |        |      |
 
 ## 往期报告
 
@@ -44,6 +44,7 @@
 |  5   | Identification of neurobehavioural symptom groups based on shared brain mechanisms. Nature Human Behaviour, 3(12), 1306–1318. https://doi.org/10.1038/s41562-019-0738-8 |    刘威     | 2月25日    |                                                              |
 |  6   | Gagne, C., Zika, O., Dayan, P., & Bishop, S. J. (2020). Impaired adaptation of learning to contingency volatility in internalizing psychopathology. ELife, 9, e61387. https://doi.org/10.7554/eLife.61387 |   王志豪    | 3月11日    |                                                              |
 |  7   | Computational psychiatry Intro                               |    张磊     | 3月25日    | [视频](https://www.bilibili.com/video/BV1SK411c7UJ/), [PPT](https://github.com/lei-zhang/COSN_webinar/tree/master/20210325_Computational_Psychiatry) |
+|  8   | Hein, T. P., de Fockert, J., & Ruiz, M. H. (2021). State anxiety biases estimates of uncertainty and impairs reward learning in volatile environments. NeuroImage, 224, 117424. https://doi.org/10.1016/j.neuroimage.2020.117424 |   窦皓然    | 4月8日     | [视频](https://www.bilibili.com/video/BV1sp4y1t72K/), [PPT](https://github.com/coolspiderghy/Computational_Psychiatry_online_Journal_Club/blob/main/SM/journal%20club-HGF-0408.pdf) |
 
 ## 国际认知计算神经科学前沿研讨会
 
