@@ -28,10 +28,10 @@
 
 ## 日程安排
 
-| 期号 | 文献 | 报告人 | 日期 |
-| :--: | :--: | :----: | ---- |
-|      |      |        |      |
-|      |      |        |      |
+| 期号 |                             文献                             | 报告人 | 日期    |      |
+| :--: | :----------------------------------------------------------: | :----: | ------- | ---- |
+|  9   | Shin, Y. S., & Niv, Y. (2021). Biased evaluations emerge from inferring hidden causes. *Nature Human Behaviour*, 1–10. https://doi.org/10.1038/s41562-021-01065-0 | 潘晚坷 | 4月29日 |      |
+|  10  | Lei, H., Mochizuki, Y., Chen, C., Hagiwara, K., Hirotsu, M., Matsubara, T., & Nakagawa, S. (2021). Sex difference in the weighting of expected uncertainty under chronic stress. *Scientific Reports*, *11*(1), 8700. https://doi.org/10.1038/s41598-021-88155-1 | 雷慧洁 | 5月13日 |      |
 
 ## 往期报告
 
