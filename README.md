@@ -14,7 +14,7 @@
 
 * 时间： 每周四晚上8点(北京时间)	
 
-* 欢迎对这个主题感兴趣的老师同学进群，大家一起学习讨论。联系人：耿海洋（miller.geng@gmail.com）
+* 欢迎对这个主题感兴趣的老师同学进群，大家一起学习讨论。联系邮箱：ccpn2021@foxmail.com
 * 合作组织：[Chinese Open Science Network(COSN)](https://open-sci.cn/)(也可以关注 COSN Events，我们会定期更新JC的相关信息)
 
 **报告讨论会目的：**
