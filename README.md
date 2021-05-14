@@ -28,24 +28,25 @@
 
 ## 日程安排
 
-| 期号 |                             文献                             | 报告人 | 日期    |      |
-| :--: | :----------------------------------------------------------: | :----: | ------- | ---- |
-|      |                                                              |        |         |      |
-|  10  | Lei, H., Mochizuki, Y., Chen, C., Hagiwara, K., Hirotsu, M., Matsubara, T., & Nakagawa, S. (2021). Sex difference in the weighting of expected uncertainty under chronic stress. *Scientific Reports*, *11*(1), 8700. https://doi.org/10.1038/s41598-021-88155-1 | 雷慧洁 | 5月13日 |      |
+| 期号 |                             文献                             | 报告人 | 日期     |      |
+| :--: | :----------------------------------------------------------: | :----: | -------- | ---- |
+|  11  | van Baar, J. M., Chang, L. J., & Sanfey, A. G. (2019). The computational and neural substrates of moral strategies in social decision-making. *Nature Communications*, *10*(1), 1483. https://doi.org/10.1038/s41467-019-09161-6 | 金悦宁 | 5月27 日 |      |
+|      |                                                              |        |          |      |
 
 ## 往期报告
 
-| 期号 | 文献                                                         |   报告人    | 日期       | 相关材料                                                     |
-| :--: | :----------------------------------------------------------- | :---------: | ---------- | ------------------------------------------------------------ |
-|  1   | Pavlovian conditioning–induced hallucinations result from overweighting of perceptual priors. Science, 357(6351), 596–600. https://doi.org/10.1126/science.aan3458 |   耿海洋    | 12月24号号 |                                                              |
-|  2   | An integrative framework for perceptual disturbances in psychosis. Nature Reviews Neuroscience, 20(12), 763–778. https://doi.org/10.1038/s41583-019-0234-1 |    李瑛     | 12月31号   |                                                              |
-|  3   | Anxious individuals have difficulty learning the causal statistics of aversive environments. Nature Neuroscience, 18(4), 590–596. https://doi.org/10.1038/nn.3961 | 全湘 张洳源 | 1月28号    |                                                              |
-|  4   | Identifying and validating subtypes within major psychiatric disorders based on frontal–posterior functional imbalance via deep learning. Molecular Psychiatry. https://doi.org/10.1038/s41380-020-00892-3 |    黎超     | 2月4号     |                                                              |
-|  5   | Identification of neurobehavioural symptom groups based on shared brain mechanisms. Nature Human Behaviour, 3(12), 1306–1318. https://doi.org/10.1038/s41562-019-0738-8 |    刘威     | 2月25日    |                                                              |
-|  6   | Gagne, C., Zika, O., Dayan, P., & Bishop, S. J. (2020). Impaired adaptation of learning to contingency volatility in internalizing psychopathology. ELife, 9, e61387. https://doi.org/10.7554/eLife.61387 |   王志豪    | 3月11日    |                                                              |
-|  7   | Computational psychiatry Intro                               |    张磊     | 3月25日    | [视频](https://www.bilibili.com/video/BV1SK411c7UJ/), [PPT](https://github.com/lei-zhang/COSN_webinar/tree/master/20210325_Computational_Psychiatry) |
-|  8   | Hein, T. P., de Fockert, J., & Ruiz, M. H. (2021). State anxiety biases estimates of uncertainty and impairs reward learning in volatile environments. NeuroImage, 224, 117424. https://doi.org/10.1016/j.neuroimage.2020.117424 |   窦皓然    | 4月8日     | [视频](https://www.bilibili.com/video/BV1sp4y1t72K/), [PPT](https://github.com/coolspiderghy/Computational_Psychiatry_online_Journal_Club/blob/main/SM/journal%20club-HGF-0408.pdf) |
-|  9   | Shin, Y. S., & Niv, Y. (2021). Biased evaluations emerge from inferring hidden causes. *Nature Human Behaviour*, 1–10. https://doi.org/10.1038/s41562-021-01065-0 |   潘晚坷    | 4月29日    | [视频](https://www.bilibili.com/video/BV1of4y1p7gD/),[PPT](https://github.com/coolspiderghy/Computational_Psychiatry_online_Journal_Club/blob/main/SM/Biased%20evaluations%20emerge%20from%20inferring%20hidden%20causes%20.pdf) |
+| 期号 | 文献                                                         |   报告人    | 日期     | 相关材料                                                     |
+| :--: | :----------------------------------------------------------- | :---------: | -------- | ------------------------------------------------------------ |
+|  1   | Pavlovian conditioning–induced hallucinations result from overweighting of perceptual priors. Science, 357(6351), 596–600. https://doi.org/10.1126/science.aan3458 |   耿海洋    | 12月24日 |                                                              |
+|  2   | An integrative framework for perceptual disturbances in psychosis. Nature Reviews Neuroscience, 20(12), 763–778. https://doi.org/10.1038/s41583-019-0234-1 |    李瑛     | 12月31日 |                                                              |
+|  3   | Anxious individuals have difficulty learning the causal statistics of aversive environments. Nature Neuroscience, 18(4), 590–596. https://doi.org/10.1038/nn.3961 | 全湘 张洳源 | 1月28日  |                                                              |
+|  4   | Identifying and validating subtypes within major psychiatric disorders based on frontal–posterior functional imbalance via deep learning. Molecular Psychiatry. https://doi.org/10.1038/s41380-020-00892-3 |    黎超     | 2月4日   |                                                              |
+|  5   | Identification of neurobehavioural symptom groups based on shared brain mechanisms. Nature Human Behaviour, 3(12), 1306–1318. https://doi.org/10.1038/s41562-019-0738-8 |    刘威     | 2月25日  |                                                              |
+|  6   | Gagne, C., Zika, O., Dayan, P., & Bishop, S. J. (2020). Impaired adaptation of learning to contingency volatility in internalizing psychopathology. ELife, 9, e61387. https://doi.org/10.7554/eLife.61387 |   王志豪    | 3月11日  |                                                              |
+|  7   | Computational psychiatry Intro                               |    张磊     | 3月25日  | [视频](https://www.bilibili.com/video/BV1SK411c7UJ/), [PPT](https://github.com/lei-zhang/COSN_webinar/tree/master/20210325_Computational_Psychiatry) |
+|  8   | Hein, T. P., de Fockert, J., & Ruiz, M. H. (2021). State anxiety biases estimates of uncertainty and impairs reward learning in volatile environments. NeuroImage, 224, 117424. https://doi.org/10.1016/j.neuroimage.2020.117424 |   窦皓然    | 4月8日   | [视频](https://www.bilibili.com/video/BV1sp4y1t72K/), [PPT](https://github.com/coolspiderghy/Computational_Psychiatry_online_Journal_Club/blob/main/SM/journal%20club-HGF-0408.pdf) |
+|  9   | Shin, Y. S., & Niv, Y. (2021). Biased evaluations emerge from inferring hidden causes. *Nature Human Behaviour*, 1–10. https://doi.org/10.1038/s41562-021-01065-0 |   潘晚坷    | 4月29日  | [视频](https://www.bilibili.com/video/BV1of4y1p7gD/),[PPT](https://github.com/coolspiderghy/Computational_Psychiatry_online_Journal_Club/blob/main/SM/Biased%20evaluations%20emerge%20from%20inferring%20hidden%20causes%20.pdf) |
+|  10  | Lei, H., Mochizuki, Y., Chen, C., Hagiwara, K., Hirotsu, M., Matsubara, T., & Nakagawa, S. (2021). Sex difference in the weighting of expected uncertainty under chronic stress. *Scientific Reports*, *11*(1), 8700. https://doi.org/10.1038/s41598-021-88155-1 |   雷慧洁    | 5月13日  | [PPT](https://github.com/coolspiderghy/Computational_Psychiatry_online_Journal_Club/blob/main/SM/Sex%20difference%20in%20the%20weighting%20of%20expected%20uncertainty%20under%20chronic%20stress-Huijie%20Lei.pdf) |
 
 ## 国际认知计算神经科学前沿研讨会
 
