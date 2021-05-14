@@ -48,6 +48,14 @@
 |  9   | Shin, Y. S., & Niv, Y. (2021). Biased evaluations emerge from inferring hidden causes. *Nature Human Behaviour*, 1–10. https://doi.org/10.1038/s41562-021-01065-0 |   潘晚坷    | 4月29日  | [视频](https://www.bilibili.com/video/BV1of4y1p7gD/),[PPT](https://github.com/coolspiderghy/Computational_Psychiatry_online_Journal_Club/blob/main/SM/Biased%20evaluations%20emerge%20from%20inferring%20hidden%20causes%20.pdf) |
 |  10  | Lei, H., Mochizuki, Y., Chen, C., Hagiwara, K., Hirotsu, M., Matsubara, T., & Nakagawa, S. (2021). Sex difference in the weighting of expected uncertainty under chronic stress. *Scientific Reports*, *11*(1), 8700. https://doi.org/10.1038/s41598-021-88155-1 |   雷慧洁    | 5月13日  | [PPT](https://github.com/coolspiderghy/Computational_Psychiatry_online_Journal_Club/blob/main/SM/Sex%20difference%20in%20the%20weighting%20of%20expected%20uncertainty%20under%20chronic%20stress-Huijie%20Lei.pdf) |
 
+## 推荐阅读
+
+|                             文献                             |
+| :----------------------------------------------------------: |
+| Wilson, R. C., & Collins, A. G. (2019). Ten simple rules for the computational modeling of behavioral data. *ELife*, *8*, e49547. https://doi.org/10.7554/eLife.49547 |
+| Dwyer, D. B., Falkai, P., & Koutsouleris, N. (2018). Machine Learning Approaches for Clinical Psychology and Psychiatry. *Annual Review of Clinical Psychology*, *14*(1), 91–118. https://doi.org/10.1146/annurev-clinpsy-032816-045037 |
+| Kotov, R., Krueger, R. F., Watson, D., Cicero, D. C., Conway, C. C., DeYoung, C. G., Eaton, N. R., Forbes, M. K., Hallquist, M. N., Latzman, R. D., Mullins-Sweatt, S. N., Ruggero, C. J., Simms, L. J., Waldman, I. D., Waszczuk, M. A., & Wright, A. G. C. (2021). The Hierarchical Taxonomy of Psychopathology (HiTOP): A Quantitative Nosology Based on Consensus of Evidence. *Annual Review of Clinical Psychology*, *17*(1), 83–108. https://doi.org/10.1146/annurev-clinpsy-081219-093304 |
+
 ## 国际认知计算神经科学前沿研讨会
 
 |                             名字                             | 简介                                                         | 时间                                |
