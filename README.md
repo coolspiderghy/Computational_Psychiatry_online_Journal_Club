@@ -28,10 +28,10 @@
 
 ## 日程安排
 
-| 期号 | 文献 | 报告人 | 日期 |      |
-| :--: | :--: | :----: | ---- | ---- |
-|      |      |        |      |      |
-|      |      |        |      |      |
+| 期号 |                             文献                             | 报告人 | 日期 |      |
+| :--: | :----------------------------------------------------------: | :----: | ---- | ---- |
+|      | Peterson, J. C., Bourgin, D. D., Agrawal, M., Reichman, D., & Griffiths, T. L. (2021). Using large-scale experiments and machine learning to discover theories of human decision-making. *Science*, *372*(6547), 1209–1214. https://doi.org/10.1126/science.abe2629 | 窦皓然 | 待定 |      |
+|      |                                                              |        |      |      |
 
 ## 往期报告
 
