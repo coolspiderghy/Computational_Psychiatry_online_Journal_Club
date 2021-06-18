@@ -28,10 +28,11 @@
 
 ## 日程安排
 
-| 期号 |                             文献                             | 报告人 | 日期 |      |
-| :--: | :----------------------------------------------------------: | :----: | ---- | ---- |
-|      | Peterson, J. C., Bourgin, D. D., Agrawal, M., Reichman, D., & Griffiths, T. L. (2021). Using large-scale experiments and machine learning to discover theories of human decision-making. *Science*, *372*(6547), 1209–1214. https://doi.org/10.1126/science.abe2629 | 窦皓然 | 待定 |      |
-|      |                                                              |        |      |      |
+| 期号 |                             文献                             | 报告人 | 日期    |      |
+| :--: | :----------------------------------------------------------: | :----: | ------- | ---- |
+|  12  | van de Schoot, R., Depaoli, S., King, R., Kramer, B., Märtens, K., Tadesse, M. G., Vannucci, M., Gelman, A., Veen, D., Willemsen, J., & Yau, C. (2021). Bayesian statistics and modelling. *Nature Reviews Methods Primers*, *1*(1), 1–26. https://doi.org/10.1038/s43586-020-00001-2 | 谭敬斌 | 6月24日 |      |
+|      | Peterson, J. C., Bourgin, D. D., Agrawal, M., Reichman, D., & Griffiths, T. L. (2021). Using large-scale experiments and machine learning to discover theories of human decision-making. *Science*, *372*(6547), 1209–1214. https://doi.org/10.1126/science.abe2629 | 窦皓然 | 待定    |      |
+|      |                                                              |        |         |      |
 
 ## 往期报告
 
