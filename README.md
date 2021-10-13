@@ -26,15 +26,25 @@
 
 <img src="./a.jpeg" alt="drawing" width="200"/>
 
-## 日程安排
+## CPoJC 2.0日程安排
 
-| 期号 |                             文献                             | 报告人 | 日期    |      |
-| :--: | :----------------------------------------------------------: | :----: | ------- | ---- |
-|  12  | van de Schoot, R., Depaoli, S., King, R., Kramer, B., Märtens, K., Tadesse, M. G., Vannucci, M., Gelman, A., Veen, D., Willemsen, J., & Yau, C. (2021). Bayesian statistics and modelling. *Nature Reviews Methods Primers*, *1*(1), 1–26. https://doi.org/10.1038/s43586-020-00001-2 | 谭敬斌 | 6月24日 |      |
-|      | Peterson, J. C., Bourgin, D. D., Agrawal, M., Reichman, D., & Griffiths, T. L. (2021). Using large-scale experiments and machine learning to discover theories of human decision-making. *Science*, *372*(6547), 1209–1214. https://doi.org/10.1126/science.abe2629 | 窦皓然 | 待定    |      |
-|      |                                                              |        |         |      |
+| 期号 |                             文献                             |     报告人     | 日期     |      |
+| :--: | :----------------------------------------------------------: | :------------: | -------- | ---- |
+|  13  | Dwyer, D. B., Falkai, P., & Koutsouleris, N. (2018). Machine Learning Approaches for Clinical Psychology and Psychiatry. *Annual Review of Clinical Psychology*, *14*(1), 91–118. https://doi.org/10.1146/annurev-clinpsy-032816-045037 |     吕婷婷     | 10月21日 |      |
+|  14  | Suthaharan, P., Reed, E. J., Leptourgos, P., Kenney, J. G., Uddenberg, S., Mathys, C. D., Litman, L., Robinson, J., Moss, A. J., Taylor, J. R., Groman, S. M., & Corlett, P. R. (2021). Paranoia and belief updating during the COVID-19 crisis. *Nature Human Behaviour*, *5*(9), 1190–1202. https://doi.org/10.1038/s41562-021-01176-8 |     黄丽芹     | 10月28日 |      |
+|  15  |                                                              |                |          |      |
+|  16  | Lake, B. M., Ullman, T. D., Tenenbaum, J. B., & Gershman, S. J. (2017). Building machines that learn and think like people. *Behavioral and Brain Sciences*, *40*. https://doi.org/10.1017/S0140525X16001837 | 谢涵博，方泽鸣 | 11月4日  |      |
+|  17  | Brown, V. M., Zhu, L., Solway, A., Wang, J. M., McCurry, K. L., King-Casas, B., & Chiu, P. H. (2021). Reinforcement Learning Disruptions in Individuals With Depression and Sensitivity to Symptom Change Following Cognitive Behavioral Therapy. *JAMA Psychiatry*, *78*(10), 1113–1122. https://doi.org/10.1001/jamapsychiatry.2021.1844 |     雷慧洁     | 11月11日 |      |
+|  18  | Wilson, R. C., & Collins, A. G. (2019). Ten simple rules for the computational modeling of behavioral data. *ELife*, *8*, e49547. https://doi.org/10.7554/eLife.49547 |  王鑫, 刘亚男  | 11月18日 |      |
+|  19  | Kang Huang, Yaning Han, Ke Chen, Hongli Pan, Gaoyang Zhao, Wenling Yi, Xiaoxi Li, Siyuan Liu, Pengfei Wei & Liping Wang（2021）.A hierarchical 3D-motion learning framework for animal spontaneous behavior mapping.Nature Communications |     蔡盛源     | 11月25日 |      |
+|  20  | Peterson, Joshua C., David D. Bourgin, Mayank Agrawal, Daniel Reichman, and Thomas L. Griffiths. 2021. “Using Large-Scale Experiments and Machine Learning to Discover Theories of Human Decision-Making |    Deborah     | 12月2日  |      |
+|  21  |                                                              |                | 12月9日  |      |
+|  22  |                                                              |                | 12月16日 |      |
+|  23  |                                                              |                | 12月23日 |      |
+|  24  |                                                              |                | 12月30日 |      |
+|      |                                                              |                |          |      |
 
-## 往期报告
+## CPoJC 1.0 往期报告
 
 | 期号 | 文献                                                         |   报告人    | 日期     | 相关材料                                                     |
 | :--: | :----------------------------------------------------------- | :---------: | -------- | ------------------------------------------------------------ |
@@ -49,16 +59,17 @@
 |  9   | Shin, Y. S., & Niv, Y. (2021). Biased evaluations emerge from inferring hidden causes. *Nature Human Behaviour*, 1–10. https://doi.org/10.1038/s41562-021-01065-0 |   潘晚坷    | 4月29日  | [视频](https://www.bilibili.com/video/BV1of4y1p7gD/),[PPT](https://github.com/coolspiderghy/Computational_Psychiatry_online_Journal_Club/blob/main/SM/Biased%20evaluations%20emerge%20from%20inferring%20hidden%20causes%20.pdf) |
 |  10  | Lei, H., Mochizuki, Y., Chen, C., Hagiwara, K., Hirotsu, M., Matsubara, T., & Nakagawa, S. (2021). Sex difference in the weighting of expected uncertainty under chronic stress. *Scientific Reports*, *11*(1), 8700. https://doi.org/10.1038/s41598-021-88155-1 |   雷慧洁    | 5月13日  | [PPT](https://github.com/coolspiderghy/Computational_Psychiatry_online_Journal_Club/blob/main/SM/Sex%20difference%20in%20the%20weighting%20of%20expected%20uncertainty%20under%20chronic%20stress-Huijie%20Lei.pdf) |
 |  11  | van Baar, J. M., Chang, L. J., & Sanfey, A. G. (2019). The computational and neural substrates of moral strategies in social decision-making. *Nature Communications*, *10*(1), 1483. https://doi.org/10.1038/s41467-019-09161-6 |   金悦宁    | 5月27 日 | [视频](https://www.bilibili.com/video/BV1TU4y1j7jU/), [PPT](https://github.com/coolspiderghy/Computational_Psychiatry_online_Journal_Club/blob/main/SM/Biased%20evaluations%20emerge%20from%20inferring%20hidden%20causes%20.pdf) |
+|  12  | van de Schoot, R., Depaoli, S., King, R., Kramer, B., Märtens, K., Tadesse, M. G., Vannucci, M., Gelman, A., Veen, D., Willemsen, J., & Yau, C. (2021). Bayesian statistics and modelling. *Nature Reviews Methods Primers*, *1*(1), 1–26. https://doi.org/10.1038/s43586-020-00001-2 |   谭敬斌    | 6月24日  |                                                              |
 
 ## 推荐阅读
 
 | 序号 | 文献                                                         | 等级（5为最高） |
 | :--: | ------------------------------------------------------------ | --------------- |
-|  1   | Wilson, R. C., & Collins, A. G. (2019). Ten simple rules for the computational modeling of behavioral data. *ELife*, *8*, e49547. https://doi.org/10.7554/eLife.49547 | 5               |
-|  2   | Dwyer, D. B., Falkai, P., & Koutsouleris, N. (2018). Machine Learning Approaches for Clinical Psychology and Psychiatry. *Annual Review of Clinical Psychology*, *14*(1), 91–118. https://doi.org/10.1146/annurev-clinpsy-032816-045037 | 3               |
+|  1   |                                                              |                 |
+|  2   |                                                              |                 |
 |  3   | Kotov, R., Krueger, R. F., Watson, D., Cicero, D. C., Conway, C. C., DeYoung, C. G., Eaton, N. R., Forbes, M. K., Hallquist, M. N., Latzman, R. D., Mullins-Sweatt, S. N., Ruggero, C. J., Simms, L. J., Waldman, I. D., Waszczuk, M. A., & Wright, A. G. C. (2021). The Hierarchical Taxonomy of Psychopathology (HiTOP): A Quantitative Nosology Based on Consensus of Evidence. *Annual Review of Clinical Psychology*, *17*(1), 83–108. https://doi.org/10.1146/annurev-clinpsy-081219-093304 | 4               |
 |  4   | Weiss, A., Chambon, V., Lee, J. K., Drugowitsch, J., & Wyart, V. (2021). Interacting with volatile environments stabilizes hidden-state inference and its brain signatures. *Nature Communications*, *12*(1), 2228. https://doi.org/10.1038/s41467-021-22396-6 | 4               |
-|  5   | van de Schoot, R., Depaoli, S., King, R., Kramer, B., Märtens, K., Tadesse, M. G., Vannucci, M., Gelman, A., Veen, D., Willemsen, J., & Yau, C. (2021). Bayesian statistics and modelling. *Nature Reviews Methods Primers*, *1*(1), 1–26. https://doi.org/10.1038/s43586-020-00001-2 | 5               |
+|  5   |                                                              |                 |
 
 ## 国际认知计算神经科学前沿研讨会
 
