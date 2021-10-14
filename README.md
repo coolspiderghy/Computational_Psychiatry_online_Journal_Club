@@ -38,7 +38,7 @@
 |  18  | Kang Huang, Yaning Han, Ke Chen, Hongli Pan, Gaoyang Zhao, Wenling Yi, Xiaoxi Li, Siyuan Liu, Pengfei Wei & Liping Wang（2021）.A hierarchical 3D-motion learning framework for animal spontaneous behavior mapping. Nature Communications |     蔡盛源     | 11月25日 |      |
 |  19  | Peterson, Joshua C., David D. Bourgin, Mayank Agrawal, Daniel Reichman, and Thomas L. Griffiths. 2021. “Using Large-Scale Experiments and Machine Learning to Discover Theories of Human Decision-Making |    Deborah     | 12月2日  |      |
 |  20  |                                                              |                | 12月9日  |      |
-|  21  |                                                              |                | 12月16日 |      |
+|  21  | Gershman, S. J., & Lai, L. (2021). The Reward-Complexity Trade-off in Schizophrenia. *Computational Psychiatry*, *5*(1), 38–53. https://doi.org/10.5334/cpsy.71 |     谭敬斌     | 12月16日 |      |
 |  22  |                                                              |                | 12月23日 |      |
 |  23  |                                                              |                | 12月30日 |      |
 |      |                                                              |                |          |      |
