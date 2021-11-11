@@ -1,4 +1,4 @@
-
+​	
 
 
 
@@ -63,13 +63,13 @@
 
 ## 推荐阅读
 
-| 序号 | 文献                                                         | 等级（5为最高） |
-| :--: | ------------------------------------------------------------ | --------------- |
-|  1   |                                                              |                 |
-|  2   |                                                              |                 |
-|  3   |                                                              | 4               |
-|  4   | Weiss, A., Chambon, V., Lee, J. K., Drugowitsch, J., & Wyart, V. (2021). Interacting with volatile environments stabilizes hidden-state inference and its brain signatures. *Nature Communications*, *12*(1), 2228. https://doi.org/10.1038/s41467-021-22396-6 | 4               |
-|  5   |                                                              |                 |
+| 序号 | 文献 | 等级（5为最高） |
+| :--: | ---- | --------------- |
+|  1   |      |                 |
+|  2   |      |                 |
+|  3   |      |                 |
+|  4   |      |                 |
+|  5   |      |                 |
 
 ## 国际认知计算神经科学前沿研讨会
 
