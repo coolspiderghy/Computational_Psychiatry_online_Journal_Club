@@ -39,8 +39,8 @@
 |  19  | Peterson, Joshua C., David D. Bourgin, Mayank Agrawal, Daniel Reichman, and Thomas L. Griffiths. 2021. “Using Large-Scale Experiments and Machine Learning to Discover Theories of Human Decision-Making |    Deborah     | 12月2日  | 谢涵博 |
 |  20  | Kotov, R., Krueger, R. F., Watson, D., Cicero, D. C., Conway, C. C., DeYoung, C. G., Eaton, N. R., Forbes, M. K., Hallquist, M. N., Latzman, R. D., Mullins-Sweatt, S. N., Ruggero, C. J., Simms, L. J., Waldman, I. D., Waszczuk, M. A., & Wright, A. G. C. (2021). The Hierarchical Taxonomy of Psychopathology (HiTOP): A Quantitative Nosology Based on Consensus of Evidence. *Annual Review of Clinical Psychology*, *17*(1), 83–108. https://doi.org/10.1146/annurev-clinpsy-081219-093304 |     温秀娟     | 12月9日  |        |
 |  21  | Gershman, S. J., & Lai, L. (2021). The Reward-Complexity Trade-off in Schizophrenia. *Computational Psychiatry*, *5*(1), 38–53. https://doi.org/10.5334/cpsy.71 |     谭敬斌     | 12月16日 | 谢涵博 |
-|  22  |                                                              | 陈明明，李冰洁 | 12月23日 |        |
-|  23  |                                                              |     吴雪冰     | 12月30日 |        |
+|  22  | Weiss, Aurélien, Valérian Chambon, Junseok K. Lee, Jan Drugowitsch, and Valentin Wyart. 2021. “Interacting with Volatile Environments Stabilizes Hidden-State Inference and Its Brain Signatures.” *Nature Communications* 12(1):2228. doi: [10.1038/s41467-021-22396-6](https://doi.org/10.1038/s41467-021-22396-6). | 陈明明，李冰洁 | 12月23日 | 谢涵博 |
+|  23  | Stephan, Klaas E., Dominik R. Bach, Paul C. Fletcher, Jonathan Flint, Michael J. Frank, Karl J. Friston, Andreas Heinz, Quentin J. M. Huys, Michael J. Owen, Elisabeth B. Binder, Peter Dayan, Eve C. Johnstone, Andreas Meyer-Lindenberg, P. Read Montague, Ulrich Schnyder, Xiao-Jing Wang, and Michael Breakspear. 2016. “Charting the Landscape of Priority Problems in Psychiatry, Part 1: Classification and Diagnosis.” The Lancet Psychiatry 3(1):77–83. doi: 10.1016/S2215-0366(15)00361-2. |     吴雪冰     | 12月30日 | 吕婷婷 |
 |      |                                                              |                |          |        |
 
 ## CPoJC 往期报告
