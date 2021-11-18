@@ -30,7 +30,7 @@
 
 | 期号 |                             文献                             |     报告人     | 日期           | 主持人 |
 | :--: | :----------------------------------------------------------: | :------------: | -------------- | ------ |
-|  17  | Wilson, R. C., & Collins, A. G. (2019). Ten simple rules for the computational modeling of behavioral data. *ELife*, *8*, e49547. https://doi.org/10.7554/eLife.49547 |  王鑫, 刘亚男  | 2021年11月18日 | 谢涵博 |
+|  17  | Wilson, R. C., & Collins, A. G. (2019). Ten simple rules for the computational modeling of behavioral data. *ELife*, *8*, e49547. https://doi.org/10.7554/eLife.49547 |  王鑫, 刘花卷  | 2021年11月18日 | 谢涵博 |
 |  18  | Kang Huang, Yaning Han, Ke Chen, Hongli Pan, Gaoyang Zhao, Wenling Yi, Xiaoxi Li, Siyuan Liu, Pengfei Wei & Liping Wang（2021）.A hierarchical 3D-motion learning framework for animal spontaneous behavior mapping. Nature Communications |     蔡盛源     | 2021年11月25日 | 吕婷婷 |
 |  19  | Peterson, Joshua C., David D. Bourgin, Mayank Agrawal, Daniel Reichman, and Thomas L. Griffiths. 2021. “Using Large-Scale Experiments and Machine Learning to Discover Theories of Human Decision-Making |    Deborah     | 2021年12月2日  | 谢涵博 |
 |  20  | Kotov, R., Krueger, R. F., Watson, D., Cicero, D. C., Conway, C. C., DeYoung, C. G., Eaton, N. R., Forbes, M. K., Hallquist, M. N., Latzman, R. D., Mullins-Sweatt, S. N., Ruggero, C. J., Simms, L. J., Waldman, I. D., Waszczuk, M. A., & Wright, A. G. C. (2021). The Hierarchical Taxonomy of Psychopathology (HiTOP): A Quantitative Nosology Based on Consensus of Evidence. *Annual Review of Clinical Psychology*, *17*(1), 83–108. https://doi.org/10.1146/annurev-clinpsy-081219-093304 |     温秀娟     | 2021年12月9日  | 祝小喜 |
