@@ -30,12 +30,15 @@
 
 | 期号 |                             文献                             |     报告人     | 日期           | 主持人 |
 | :--: | :----------------------------------------------------------: | :------------: | -------------- | ------ |
-|  19  | Peterson, Joshua C., David D. Bourgin, Mayank Agrawal, Daniel Reichman, and Thomas L. Griffiths. 2021. “Using Large-Scale Experiments and Machine Learning to Discover Theories of Human Decision-Making |    Deborah     | 2021年12月2日  | 谢涵博 |
+|      |                                                              |                |                |        |
 |  20  | Kotov, R., Krueger, R. F., Watson, D., Cicero, D. C., Conway, C. C., DeYoung, C. G., Eaton, N. R., Forbes, M. K., Hallquist, M. N., Latzman, R. D., Mullins-Sweatt, S. N., Ruggero, C. J., Simms, L. J., Waldman, I. D., Waszczuk, M. A., & Wright, A. G. C. (2021). The Hierarchical Taxonomy of Psychopathology (HiTOP): A Quantitative Nosology Based on Consensus of Evidence. *Annual Review of Clinical Psychology*, *17*(1), 83–108. https://doi.org/10.1146/annurev-clinpsy-081219-093304 |     温秀娟     | 2021年12月9日  | 祝小喜 |
 |  21  | Gershman, S. J., & Lai, L. (2021). The Reward-Complexity Trade-off in Schizophrenia. *Computational Psychiatry*, *5*(1), 38–53. https://doi.org/10.5334/cpsy.71 |     谭敬斌     | 2021年12月16日 | 谢涵博 |
 |  22  | Weiss, Aurélien, Valérian Chambon, Junseok K. Lee, Jan Drugowitsch, and Valentin Wyart. 2021. “Interacting with Volatile Environments Stabilizes Hidden-State Inference and Its Brain Signatures.” *Nature Communications* 12(1):2228. doi: [10.1038/s41467-021-22396-6](https://doi.org/10.1038/s41467-021-22396-6). | 陈明明，李冰洁 | 2021年12月23日 | 谢涵博 |
 |  23  | Stephan, Klaas E., Dominik R. Bach, Paul C. Fletcher, Jonathan Flint, Michael J. Frank, Karl J. Friston, Andreas Heinz, Quentin J. M. Huys, Michael J. Owen, Elisabeth B. Binder, Peter Dayan, Eve C. Johnstone, Andreas Meyer-Lindenberg, P. Read Montague, Ulrich Schnyder, Xiao-Jing Wang, and Michael Breakspear. 2016. “Charting the Landscape of Priority Problems in Psychiatry, Part 1: Classification and Diagnosis.” The Lancet Psychiatry 3(1):77–83. doi: 10.1016/S2215-0366(15)00361-2. |     吴雪冰     | 2021年12月30日 | 吕婷婷 |
 |  24  | [MCMC sampling for dummies](https://twiecki.io/blog/2015/11/10/mcmc-sampling/) |     李宇航     | 2022年1月6日   |        |
+|  25  | Stephan, K. E., F. Schlagenhauf, Q. J. M. Huys, S. Raman, E. A. Aponte, K. H. Brodersen, L. Rigoux, R. J. Moran, J. Daunizeau, R. J. Dolan, K. J. Friston, and A. Heinz. 2017. “Computational Neuroimaging Strategies for Single Patient Predictions.” *NeuroImage* 145:180–99. doi: [10.1016/j.neuroimage.2016.06.038](https://doi.org/10.1016/j.neuroimage.2016.06.038). |     吕婷婷     | 2022年1月13日  |        |
+|      |                                                              |                |                |        |
+|      |                                                              |                |                |        |
 
 ## CPoJC 往期报告
 
@@ -60,8 +63,8 @@
 |  16  | Brown, V. M., Zhu, L., Solway, A., Wang, J. M., McCurry, K. L., King-Casas, B., & Chiu, P. H. (2021). Reinforcement Learning Disruptions in Individuals With Depression and Sensitivity to Symptom Change Following Cognitive Behavioral Therapy. *JAMA Psychiatry*, *78*(10), 1113–1122. https://doi.org/10.1001/jamapsychiatry.2021.1844 |     雷慧洁     | 2021年11月11日 | [视频](https://www.bilibili.com/video/BV1Pf4y1K72L/)         | 吕婷婷 |
 |  17  | Wilson, R. C., & Collins, A. G. (2019). Ten simple rules for the computational modeling of behavioral data. *ELife*, *8*, e49547. https://doi.org/10.7554/eLife.49547 |  王鑫, 刘花卷  | 2021年11月18日 | [视频](https://www.bilibili.com/video/BV1TL4y1i7HK/), [script](https://github.com/lynn0503/Python-Code-for-Ten-rules) | 谢涵博 |
 |  18  | Kang Huang, Yaning Han, Ke Chen, Hongli Pan, Gaoyang Zhao, Wenling Yi, Xiaoxi Li, Siyuan Liu, Pengfei Wei & Liping Wang（2021）.A hierarchical 3D-motion learning framework for animal spontaneous behavior mapping. Nature Communications |     蔡盛源     | 2021年11月25日 | [视频](https://www.bilibili.com/video/BV1Tq4y1r7GU/)         | 吕婷婷 |
-|      | Ten Tips for Scientific Journal Club                         |     耿海洋     | 2021年11月25日 | [视频](https://www.bilibili.com/video/BV1qL4y1p7yu/)         |        |
-|      |                                                              |                |                |                                                              |        |
+|      | Ten Tips for Scientific Journal Club                         |     耿海洋     | 2021年11月25日 | [视频](https://www.bilibili.com/video/BV1qL4y1p7yu/)         | 吕婷婷 |
+|  19  | Peterson, Joshua C., David D. Bourgin, Mayank Agrawal, Daniel Reichman, and Thomas L. Griffiths. 2021. “Using Large-Scale Experiments and Machine Learning to Discover Theories of Human Decision-Making |    Deborah     | 2021年12月2日  |                                                              | 谢涵博 |
 
 ## 推荐阅读
 
