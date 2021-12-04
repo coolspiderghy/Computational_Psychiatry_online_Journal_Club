@@ -37,7 +37,7 @@
 |  23  | Stephan, Klaas E., Dominik R. Bach, Paul C. Fletcher, Jonathan Flint, Michael J. Frank, Karl J. Friston, Andreas Heinz, Quentin J. M. Huys, Michael J. Owen, Elisabeth B. Binder, Peter Dayan, Eve C. Johnstone, Andreas Meyer-Lindenberg, P. Read Montague, Ulrich Schnyder, Xiao-Jing Wang, and Michael Breakspear. 2016. “Charting the Landscape of Priority Problems in Psychiatry, Part 1: Classification and Diagnosis.” The Lancet Psychiatry 3(1):77–83. doi: 10.1016/S2215-0366(15)00361-2. |     吴雪冰     | 2021年12月30日 | 吕婷婷 |
 |  24  | [MCMC sampling for dummies](https://twiecki.io/blog/2015/11/10/mcmc-sampling/) |     李宇航     | 2022年1月6日   |        |
 |  25  | Stephan, K. E., F. Schlagenhauf, Q. J. M. Huys, S. Raman, E. A. Aponte, K. H. Brodersen, L. Rigoux, R. J. Moran, J. Daunizeau, R. J. Dolan, K. J. Friston, and A. Heinz. 2017. “Computational Neuroimaging Strategies for Single Patient Predictions.” *NeuroImage* 145:180–99. doi: [10.1016/j.neuroimage.2016.06.038](https://doi.org/10.1016/j.neuroimage.2016.06.038). |     吕婷婷     | 2022年1月13日  |        |
-|      |                                                              |                |                |        |
+|  26  | Stein, Heike, Joao Barbosa, and Albert Compte. 2021. “Towards Biologically Constrained Attractor Models of Schizophrenia.” *Current Opinion in Neurobiology* 70:171–81. doi: [10.1016/j.conb.2021.10.013](https://doi.org/10.1016/j.conb.2021.10.013). |      谢珂      | 2022年1月20日  |        |
 |      |                                                              |                |                |        |
 
 ## CPoJC 往期报告
