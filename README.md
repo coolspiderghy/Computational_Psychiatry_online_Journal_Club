@@ -28,12 +28,11 @@
 
 ## CPoJC 2.0日程安排
 
-| 期号 |                             文献                             | 报告人 | 日期          | 主持人 |
-| :--: | :----------------------------------------------------------: | :----: | ------------- | ------ |
-|  27  | De Miguel, Zurine, Nathalie Khoury, Michael J. Betley, Benoit Lehallier, Drew Willoughby, Niclas Olsson, Andrew C. Yang, Oliver Hahn, Nannan Lu, Ryan T. Vest, Liana N. Bonanno, Lakshmi Yerra, Lichao Zhang, Nay Lui Saw, J. Kaci Fairchild, Davis Lee, Hui Zhang, Patrick L. McAlpine, Kévin Contrepois, Mehrdad Shamloo, Joshua E. Elias, Thomas A. Rando, and Tony Wyss-Coray. 2021. “Exercise Plasma Boosts Memory and Dampens Brain Inflammation via Clusterin.” *Nature* 1–6. doi: [10.1038/s41586-021-04183-x](https://doi.org/10.1038/s41586-021-04183-x). |  宋刚  | 2022年2月24日 |        |
-|      | Kanter, Benjamin R., Christine M. Lykken, Edvard I. Moser, and May-Britt Moser. 2022. “Neuroscience in the 21st Century: Circuits, Computation, and Behaviour.” *The Lancet Neurology* 21(1):19–21. doi: [10.1016/S1474-4422(21)00427-0](https://doi.org/10.1016/S1474-4422(21)00427-0). |        |               |        |
-|      | Stein, Heike, Joao Barbosa, and Albert Compte. 2021. “Towards Biologically Constrained Attractor Models of Schizophrenia.” *Current Opinion in Neurobiology* 70:171–81. doi: [10.1016/j.conb.2021.10.013](https://doi.org/10.1016/j.conb.2021.10.013). |  谢珂  |               |        |
-|      |                                                              |        |               |        |
+| 期号 |                             文献                             | 报告人 | 日期 | 主持人 |
+| :--: | :----------------------------------------------------------: | :----: | ---- | ------ |
+|  28  | Kanter, Benjamin R., Christine M. Lykken, Edvard I. Moser, and May-Britt Moser. 2022. “Neuroscience in the 21st Century: Circuits, Computation, and Behaviour.” *The Lancet Neurology* 21(1):19–21. doi: [10.1016/S1474-4422(21)00427-0](https://doi.org/10.1016/S1474-4422(21)00427-0). | 陆春雷 |      | 谢涵博 |
+|      | Stein, Heike, Joao Barbosa, and Albert Compte. 2021. “Towards Biologically Constrained Attractor Models of Schizophrenia.” *Current Opinion in Neurobiology* 70:171–81. doi: [10.1016/j.conb.2021.10.013](https://doi.org/10.1016/j.conb.2021.10.013). |  谢珂  |      |        |
+|      |                                                              |        |      |        |
 
 ## CPoJC 往期报告
 
@@ -67,6 +66,12 @@
 |  24  | **Mini-Workshop  of Cognitive Modeling(MWoCM)**   [MCMC sampling for dummies](https://twiecki.io/blog/2015/11/10/mcmc-sampling/), [Not a tutorial of a Bayesian implementation of a reinforcement learning model](https://bnicenboim.github.io/2021/11/29/bayesian-h-reinforcement-learning/),[Fitting a simple Reinforcement Learning model to behavioral data with PyMC3](https://github.com/ricardoV94/stats/blob/master/modelling/RL_PyMC.ipynb),[Ref1](https://towardsdatascience.com/a-beginners-guide-to-q-learning-c3e2a30a653c),Ask me anything about cognitive modelling! | 李宇航，徐深，马若璠，郭鸣谦，聂其阳，张磊 | 2022年1月6日   |                                                              | 耿海洋 |
 |  25  | Stephan, K. E., F. Schlagenhauf, Q. J. M. Huys, S. Raman, E. A. Aponte, K. H. Brodersen, L. Rigoux, R. J. Moran, J. Daunizeau, R. J. Dolan, K. J. Friston, and A. Heinz. 2017. “Computational Neuroimaging Strategies for Single Patient Predictions.” *NeuroImage* 145:180–99. doi: [10.1016/j.neuroimage.2016.06.038](https://doi.org/10.1016/j.neuroimage.2016.06.038). |                   吕婷婷                   | 2022年1月13日  |                                                              | 吕婷婷 |
 |  26  | Hunter, Lindsay E., Elana A. Meer, Claire M. Gillan, Ming Hsu, and Nathaniel D. Daw. 2022. “Increased and Biased Deliberation in Social Anxiety.” *Nature Human Behaviour* 6(1):146–54. doi: [10.1038/s41562-021-01180-y](https://doi.org/10.1038/s41562-021-01180-y). |                   陆春雷                   | 2022年2月10日  |                                                              | 谢涵博 |
+|  27  | De Miguel, Zurine, Nathalie Khoury, Michael J. Betley, Benoit Lehallier, Drew Willoughby, Niclas Olsson, Andrew C. Yang, Oliver Hahn, Nannan Lu, Ryan T. Vest, Liana N. Bonanno, Lakshmi Yerra, Lichao Zhang, Nay Lui Saw, J. Kaci Fairchild, Davis Lee, Hui Zhang, Patrick L. McAlpine, Kévin Contrepois, Mehrdad Shamloo, Joshua E. Elias, Thomas A. Rando, and Tony Wyss-Coray. 2021. “Exercise Plasma Boosts Memory and Dampens Brain Inflammation via Clusterin.” *Nature* 1–6. doi: [10.1038/s41586-021-04183-x](https://doi.org/10.1038/s41586-021-04183-x). |                    宋刚                    | 2022年2月24日  |                                                              | 吕婷婷 |
+|      |                                                              |                                            |                |                                                              |        |
+|      |                                                              |                                            |                |                                                              |        |
+|      |                                                              |                                            |                |                                                              |        |
+|      |                                                              |                                            |                |                                                              |        |
+|      |                                                              |                                            |                |                                                              |        |
 
 ## 推荐阅读
 
