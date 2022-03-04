@@ -28,11 +28,11 @@
 
 ## CPoJC 2.0日程安排
 
-| 期号 |                             文献                             | 报告人 | 日期         | 主持人 |
-| :--: | :----------------------------------------------------------: | :----: | ------------ | ------ |
-|  28  | Kanter, Benjamin R., Christine M. Lykken, Edvard I. Moser, and May-Britt Moser. 2022. “Neuroscience in the 21st Century: Circuits, Computation, and Behaviour.” *The Lancet Neurology* 21(1):19–21. doi: [10.1016/S1474-4422(21)00427-0](https://doi.org/10.1016/S1474-4422(21)00427-0). | 陆春雷 | 2022年3月3日 | 谢涵博 |
-|      | Stein, Heike, Joao Barbosa, and Albert Compte. 2021. “Towards Biologically Constrained Attractor Models of Schizophrenia.” *Current Opinion in Neurobiology* 70:171–81. doi: [10.1016/j.conb.2021.10.013](https://doi.org/10.1016/j.conb.2021.10.013). |  谢珂  |              |        |
-|      |                                                              |        |              |        |
+| 期号 |                             文献                             | 报告人 | 日期          | 主持人 |
+| :--: | :----------------------------------------------------------: | :----: | ------------- | ------ |
+|  28  | Kanter, Benjamin R., Christine M. Lykken, Edvard I. Moser, and May-Britt Moser. 2022. “Neuroscience in the 21st Century: Circuits, Computation, and Behaviour.” *The Lancet Neurology* 21(1):19–21. doi: [10.1016/S1474-4422(21)00427-0](https://doi.org/10.1016/S1474-4422(21)00427-0). | 陆春雷 | 2022年3月3日  | 谢涵博 |
+|      | Stein, Heike, Joao Barbosa, and Albert Compte. 2021. “Towards Biologically Constrained Attractor Models of Schizophrenia.” *Current Opinion in Neurobiology* 70:171–81. doi: [10.1016/j.conb.2021.10.013](https://doi.org/10.1016/j.conb.2021.10.013). |  谢珂  |               |        |
+|      | Gillan, C. M., & Rutledge, R. B. (2021). Smartphones and the Neuroscience of Mental Health. *Annual Review of Neuroscience*, *44*(1), 129–151. https://doi.org/10.1146/annurev-neuro-101220-014053 | 温秀娟 | 2022年4月21日 |        |
 
 ## CPoJC 往期报告
 
