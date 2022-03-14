@@ -31,7 +31,10 @@
 | 期号 |                             文献                             | 报告人 | 日期          | 主持人 |
 | :--: | :----------------------------------------------------------: | :----: | ------------- | ------ |
 |  29  | Hearne, L. J., Mill, R. D., Keane, B. P., Repovš, G., Anticevic, A., & Cole, M. W. (n.d.). Activity flow underlying abnormalities in brain activations and cognition in schizophrenia. *Science Advances*, *7*(29), eabf2513. https://doi.org/10.1126/sciadv.abf2513 |  谢珂  | 2022年3月17日 |        |
-|      | Gillan, C. M., & Rutledge, R. B. (2021). Smartphones and the Neuroscience of Mental Health. *Annual Review of Neuroscience*, *44*(1), 129–151. https://doi.org/10.1146/annurev-neuro-101220-014053 | 温秀娟 | 2022年4月21日 |        |
+|      |                                                              |        |               |        |
+|  30  | Pike, A. C., & Robinson, O. J. (2022). Reinforcement Learning in Patients With Mood and Anxiety Disorders vs Control Individuals: A Systematic Review and Meta-analysis. *JAMA Psychiatry*. https://doi.org/10.1001/jamapsychiatry.2022.0051 | 黄丽芹 | 2022年3月31日 |        |
+|  31  | Gillan, C. M., & Rutledge, R. B. (2021). Smartphones and the Neuroscience of Mental Health. *Annual Review of Neuroscience*, *44*(1), 129–151. https://doi.org/10.1146/annurev-neuro-101220-014053 | 温秀娟 | 2022年4月21日 |        |
+|      |                                                              |        |               |        |
 
 ## CPoJC 往期报告
 
@@ -78,7 +81,7 @@
 | :--: | ------------------------------------------------------------ | --------------- |
 |  1   | Baribault, Beth, and Anne Collins. 2021. “Troubleshooting Bayesian Cognitive Models: A Tutorial with Matstanlib. |                 |
 |  2   | Grossman, Cooper D., Bilal A. Bari, and Jeremiah Y. Cohen. 2021. “Serotonin Neurons Modulate Learning Rate through Uncertainty.” Current Biology. doi: 10.1016/j.cub.2021.12.006. |                 |
-|  3   | Pike, A. C., & Robinson, O. J. (2022). Reinforcement Learning in Patients With Mood and Anxiety Disorders vs Control Individuals: A Systematic Review and Meta-analysis. *JAMA Psychiatry*. https://doi.org/10.1001/jamapsychiatry.2022.0051 |                 |
+|  3   |                                                              |                 |
 |  4   |                                                              |                 |
 |  5   |                                                              |                 |
 
