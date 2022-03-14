@@ -30,7 +30,7 @@
 
 | 期号 |                             文献                             | 报告人 | 日期          | 主持人 |
 | :--: | :----------------------------------------------------------: | :----: | ------------- | ------ |
-|      | Stein, Heike, Joao Barbosa, and Albert Compte. 2021. “Towards Biologically Constrained Attractor Models of Schizophrenia.” *Current Opinion in Neurobiology* 70:171–81. doi: [10.1016/j.conb.2021.10.013](https://doi.org/10.1016/j.conb.2021.10.013). |  谢珂  |               |        |
+|  29  | Hearne, L. J., Mill, R. D., Keane, B. P., Repovš, G., Anticevic, A., & Cole, M. W. (n.d.). Activity flow underlying abnormalities in brain activations and cognition in schizophrenia. *Science Advances*, *7*(29), eabf2513. https://doi.org/10.1126/sciadv.abf2513 |  谢珂  | 2022年3月17日 |        |
 |      | Gillan, C. M., & Rutledge, R. B. (2021). Smartphones and the Neuroscience of Mental Health. *Annual Review of Neuroscience*, *44*(1), 129–151. https://doi.org/10.1146/annurev-neuro-101220-014053 | 温秀娟 | 2022年4月21日 |        |
 
 ## CPoJC 往期报告
