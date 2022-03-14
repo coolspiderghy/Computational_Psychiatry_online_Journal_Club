@@ -74,13 +74,13 @@
 
 ## 推荐阅读
 
-| 序号 | 文献 | 等级（5为最高） |
-| :--: | ---- | --------------- |
-|  1   |      |                 |
-|  2   |      |                 |
-|  3   |      |                 |
-|  4   |      |                 |
-|  5   |      |                 |
+| 序号 | 文献                                                         | 等级（5为最高） |
+| :--: | ------------------------------------------------------------ | --------------- |
+|  1   | Baribault, Beth, and Anne Collins. 2021. “Troubleshooting Bayesian Cognitive Models: A Tutorial with Matstanlib. |                 |
+|  2   | Grossman, Cooper D., Bilal A. Bari, and Jeremiah Y. Cohen. 2021. “Serotonin Neurons Modulate Learning Rate through Uncertainty.” Current Biology. doi: 10.1016/j.cub.2021.12.006. |                 |
+|  3   | Pike, A. C., & Robinson, O. J. (2022). Reinforcement Learning in Patients With Mood and Anxiety Disorders vs Control Individuals: A Systematic Review and Meta-analysis. *JAMA Psychiatry*. https://doi.org/10.1001/jamapsychiatry.2022.0051 |                 |
+|  4   |                                                              |                 |
+|  5   |                                                              |                 |
 
 ## 国际认知计算神经科学前沿研讨会
 
