@@ -30,9 +30,9 @@
 
 | 期号 |                             文献                             | 报告人 | 日期          | 主持人 |
 | :--: | :----------------------------------------------------------: | :----: | ------------- | ------ |
-|      |                                                              |        |               |        |
-|      |                                                              |        |               |        |
 |  32  | Gillan, C. M., & Rutledge, R. B. (2021). Smartphones and the Neuroscience of Mental Health. *Annual Review of Neuroscience*, *44*(1), 129–151. https://doi.org/10.1146/annurev-neuro-101220-014053 | 温秀娟 | 2022年4月21日 |        |
+|      | Thompson, B., van Opheusden, B., Sumers, T., & Griffiths, T. L. (2022). Complex cognitive algorithms preserved by selective social learning in experimental populations. *Science*, *376*(6588), 95–98. https://doi.org/10.1126/science.abn0915 | 谢涵博 | 2022年5月5日  |        |
+|      | Lam, N. H., Borduqui, T., Hallak, J., Roque, A., Anticevic, A., Krystal, J. H., Wang, X.-J., & Murray, J. D. (2022). Effects of Altered Excitation-Inhibition Balance on Decision Making in a Cortical Circuit Model. *The Journal of Neuroscience*, *42*(6), 1035–1053. https://doi.org/10.1523/JNEUROSCI.1371-20.2021 |  TBA   | TBA           |        |
 |      |                                                              |        |               |        |
 
 ## CPoJC 往期报告
@@ -80,7 +80,7 @@
 | :--: | ------------------------------------------------------------ | --------------- |
 |  1   | Baribault, Beth, and Anne Collins. 2021. “Troubleshooting Bayesian Cognitive Models: A Tutorial with Matstanlib. |                 |
 |  2   | Grossman, Cooper D., Bilal A. Bari, and Jeremiah Y. Cohen. 2021. “Serotonin Neurons Modulate Learning Rate through Uncertainty.” Current Biology. doi: 10.1016/j.cub.2021.12.006. |                 |
-|  3   |                                                              |                 |
+|  3   | Taschereau-Dumouchel, V., Cushing, C., & Lau, H. (2022). *Real-Time Functional MRI in the Treatment of Mental Health Disorders*. 31. |                 |
 |  4   |                                                              |                 |
 |  5   |                                                              |                 |
 
