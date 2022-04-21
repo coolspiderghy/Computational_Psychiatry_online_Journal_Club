@@ -28,12 +28,12 @@
 
 ## CPoJC 2.0日程安排
 
-| 期号 |                             文献                             | 报告人 | 日期          | 主持人 |
-| :--: | :----------------------------------------------------------: | :----: | ------------- | ------ |
-|  32  | Gillan, C. M., & Rutledge, R. B. (2021). Smartphones and the Neuroscience of Mental Health. *Annual Review of Neuroscience*, *44*(1), 129–151. https://doi.org/10.1146/annurev-neuro-101220-014053 | 温秀娟 | 2022年4月21日 |        |
-|      | Thompson, B., van Opheusden, B., Sumers, T., & Griffiths, T. L. (2022). Complex cognitive algorithms preserved by selective social learning in experimental populations. *Science*, *376*(6588), 95–98. https://doi.org/10.1126/science.abn0915 | 谢涵博 | 2022年5月5日  |        |
-|      | Lam, N. H., Borduqui, T., Hallak, J., Roque, A., Anticevic, A., Krystal, J. H., Wang, X.-J., & Murray, J. D. (2022). Effects of Altered Excitation-Inhibition Balance on Decision Making in a Cortical Circuit Model. *The Journal of Neuroscience*, *42*(6), 1035–1053. https://doi.org/10.1523/JNEUROSCI.1371-20.2021 |  TBA   | TBA           |        |
-|      |                                                              |        |               |        |
+| 期号 |                             文献                             |    报告人     | 日期          | 主持人 |
+| :--: | :----------------------------------------------------------: | :-----------: | ------------- | ------ |
+|  32  | Gillan, C. M., & Rutledge, R. B. (2021). Smartphones and the Neuroscience of Mental Health. *Annual Review of Neuroscience*, *44*(1), 129–151. https://doi.org/10.1146/annurev-neuro-101220-014053 | 温秀娟,张雨薇 | 2022年4月21日 | 温秀娟 |
+|      | Thompson, B., van Opheusden, B., Sumers, T., & Griffiths, T. L. (2022). Complex cognitive algorithms preserved by selective social learning in experimental populations. *Science*, *376*(6588), 95–98. https://doi.org/10.1126/science.abn0915 |    谢涵博     | 2022年5月5日  |        |
+|      | Lam, N. H., Borduqui, T., Hallak, J., Roque, A., Anticevic, A., Krystal, J. H., Wang, X.-J., & Murray, J. D. (2022). Effects of Altered Excitation-Inhibition Balance on Decision Making in a Cortical Circuit Model. *The Journal of Neuroscience*, *42*(6), 1035–1053. https://doi.org/10.1523/JNEUROSCI.1371-20.2021 |      TBA      | TBA           |        |
+|      |                                                              |               |               |        |
 
 ## CPoJC 往期报告
 
