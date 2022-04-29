@@ -28,12 +28,11 @@
 
 ## CPoJC 2.0日程安排
 
-| 期号 |                             文献                             |    报告人     | 日期          | 主持人 |
-| :--: | :----------------------------------------------------------: | :-----------: | ------------- | ------ |
-|  32  | Gillan, C. M., & Rutledge, R. B. (2021). Smartphones and the Neuroscience of Mental Health. *Annual Review of Neuroscience*, *44*(1), 129–151. https://doi.org/10.1146/annurev-neuro-101220-014053 | 温秀娟,张雨薇 | 2022年4月21日 | 温秀娟 |
-|      | Thompson, B., van Opheusden, B., Sumers, T., & Griffiths, T. L. (2022). Complex cognitive algorithms preserved by selective social learning in experimental populations. *Science*, *376*(6588), 95–98. https://doi.org/10.1126/science.abn0915 |    谢涵博     | 2022年5月5日  |        |
-|      | Lam, N. H., Borduqui, T., Hallak, J., Roque, A., Anticevic, A., Krystal, J. H., Wang, X.-J., & Murray, J. D. (2022). Effects of Altered Excitation-Inhibition Balance on Decision Making in a Cortical Circuit Model. *The Journal of Neuroscience*, *42*(6), 1035–1053. https://doi.org/10.1523/JNEUROSCI.1371-20.2021 |      TBA      | TBA           |        |
-|      |                                                              |               |               |        |
+| 期号 |                             文献                             | 报告人 | 日期         | 主持人 |
+| :--: | :----------------------------------------------------------: | :----: | ------------ | ------ |
+|  33  | Thompson, B., van Opheusden, B., Sumers, T., & Griffiths, T. L. (2022). Complex cognitive algorithms preserved by selective social learning in experimental populations. *Science*, *376*(6588), 95–98. https://doi.org/10.1126/science.abn0915 | 谢涵博 | 2022年5月5日 | 谢涵博 |
+|      | Lam, N. H., Borduqui, T., Hallak, J., Roque, A., Anticevic, A., Krystal, J. H., Wang, X.-J., & Murray, J. D. (2022). Effects of Altered Excitation-Inhibition Balance on Decision Making in a Cortical Circuit Model. *The Journal of Neuroscience*, *42*(6), 1035–1053. https://doi.org/10.1523/JNEUROSCI.1371-20.2021 |  TBA   | TBA          |        |
+|      |                                                              |        |              |        |
 
 ## CPoJC 往期报告
 
@@ -72,7 +71,7 @@
 |  29  | Hearne, L. J., Mill, R. D., Keane, B. P., Repovš, G., Anticevic, A., & Cole, M. W. (n.d.). Activity flow underlying abnormalities in brain activations and cognition in schizophrenia. *Science Advances*, *7*(29), eabf2513. https://doi.org/10.1126/sciadv.abf2513 |                    谢珂                    | 2022年3月17日  |                                                              | 耿海洋 |
 |  30  | Sharp, P. B., Russek, E. M., Huys, Q. J., Dolan, R. J., & Eldar, E. (2022). Humans perseverate on punishment avoidance goals in multigoal reinforcement learning. *ELife*, *11*, e74402. https://doi.org/10.7554/eLife.74402 |                陆春雷，徐深                | 2022年3月24日  |                                                              | 谢涵博 |
 |  31  | Pike, A. C., & Robinson, O. J. (2022). Reinforcement Learning in Patients With Mood and Anxiety Disorders vs Control Individuals: A Systematic Review and Meta-analysis. *JAMA Psychiatry*. https://doi.org/10.1001/jamapsychiatry.2022.0051 |                   黄丽芹                   | 2022年3月31日  |                                                              | 谭敬斌 |
-|      |                                                              |                                            |                |                                                              |        |
+|  32  | Gillan, C. M., & Rutledge, R. B. (2021). Smartphones and the Neuroscience of Mental Health. *Annual Review of Neuroscience*, *44*(1), 129–151. https://doi.org/10.1146/annurev-neuro-101220-014053 |               温秀娟,张雨薇                | 2022年4月21日  |                                                              | 温秀娟 |
 
 ## 推荐阅读
 
