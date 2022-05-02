@@ -80,7 +80,7 @@
 | :--: | ------------------------------------------------------------ | --------------- |
 |  1   | Baribault, Beth, and Anne Collins. 2021. “Troubleshooting Bayesian Cognitive Models: A Tutorial with Matstanlib. |                 |
 |  2   | Grossman, Cooper D., Bilal A. Bari, and Jeremiah Y. Cohen. 2021. “Serotonin Neurons Modulate Learning Rate through Uncertainty.” Current Biology. doi: 10.1016/j.cub.2021.12.006. |                 |
-|  3   |                                                              |                 |
+|  3   | Nussenbaum, K., Martin, R. E., Maulhardt, S., Yang, Y. (Jen), Bizzell-Hatcher, G., Bhatt, N., Scheuplein, M., Rosenbaum, G., O’Doherty, J. P., Cockburn, J., & Hartley, C. (2022). *Novelty and uncertainty differentially drive exploration across development*. PsyArXiv. https://doi.org/10.31234/osf.io/pkn7j |                 |
 |  4   |                                                              |                 |
 |  5   |                                                              |                 |
 
