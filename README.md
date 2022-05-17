@@ -30,8 +30,8 @@
 
 | 期号 |                             文献                             |     报告人      | 日期          | 主持人 |
 | :--: | :----------------------------------------------------------: | :-------------: | ------------- | ------ |
-|      |                                                              |                 |               |        |
-|  34  | Taschereau-Dumouchel, V., Cushing, C., & Lau, H. (2022). *Real-Time Functional MRI in the Treatment of Mental Health Disorders*. 31. | 中山大学 吕房艳 | 2022年6月23日 |        |
+|  34  | Reid, C. R., MacDonald, H., Mann, R. P., Marshall, J. A. R., Latty, T., & Garnier, S. (2016). Decision-making without a brain: How an amoeboid organism solves the two-armed bandit. *Journal of The Royal Society Interface*, *13*(119), 20160030. https://doi.org/10.1098/rsif.2016.0030 |     程子健      | 2022年5月25日 | 吕婷婷 |
+|  35  | Taschereau-Dumouchel, V., Cushing, C., & Lau, H. (2022). *Real-Time Functional MRI in the Treatment of Mental Health Disorders*. 31. | 中山大学 吕房艳 | 2022年6月23日 |        |
 |      | Lam, N. H., Borduqui, T., Hallak, J., Roque, A., Anticevic, A., Krystal, J. H., Wang, X.-J., & Murray, J. D. (2022). Effects of Altered Excitation-Inhibition Balance on Decision Making in a Cortical Circuit Model. *The Journal of Neuroscience*, *42*(6), 1035–1053. https://doi.org/10.1523/JNEUROSCI.1371-20.2021 |       TBA       | TBA           |        |
 |      |                                                              |                 |               |        |
 
