@@ -30,8 +30,8 @@
 
 | 期号 |                             文献                             |     报告人      | 日期          | 主持人 |
 | :--: | :----------------------------------------------------------: | :-------------: | ------------- | ------ |
-|  34  | Reid, C. R., MacDonald, H., Mann, R. P., Marshall, J. A. R., Latty, T., & Garnier, S. (2016). Decision-making without a brain: How an amoeboid organism solves the two-armed bandit. *Journal of The Royal Society Interface*, *13*(119), 20160030. https://doi.org/10.1098/rsif.2016.0030 |     程子健      | 2022年5月25日 | 吕婷婷 |
-|  35  | Taschereau-Dumouchel, V., Cushing, C., & Lau, H. (2022). *Real-Time Functional MRI in the Treatment of Mental Health Disorders*. 31. | 中山大学 吕房艳 | 2022年6月23日 |        |
+|  35  | Reid, C. R., MacDonald, H., Mann, R. P., Marshall, J. A. R., Latty, T., & Garnier, S. (2016). Decision-making without a brain: How an amoeboid organism solves the two-armed bandit. *Journal of The Royal Society Interface*, *13*(119), 20160030. https://doi.org/10.1098/rsif.2016.0030 |     程子健      | 2022年5月25日 | 吕婷婷 |
+|  36  | Taschereau-Dumouchel, V., Cushing, C., & Lau, H. (2022). *Real-Time Functional MRI in the Treatment of Mental Health Disorders*. 31. | 中山大学 吕房艳 | 2022年6月23日 |        |
 |      | Lam, N. H., Borduqui, T., Hallak, J., Roque, A., Anticevic, A., Krystal, J. H., Wang, X.-J., & Murray, J. D. (2022). Effects of Altered Excitation-Inhibition Balance on Decision Making in a Cortical Circuit Model. *The Journal of Neuroscience*, *42*(6), 1035–1053. https://doi.org/10.1523/JNEUROSCI.1371-20.2021 |       TBA       | TBA           |        |
 |      |                                                              |                 |               |        |
 
@@ -74,7 +74,7 @@
 |  31  | Pike, A. C., & Robinson, O. J. (2022). Reinforcement Learning in Patients With Mood and Anxiety Disorders vs Control Individuals: A Systematic Review and Meta-analysis. *JAMA Psychiatry*. https://doi.org/10.1001/jamapsychiatry.2022.0051 |                   黄丽芹                   | 2022年3月31日  |                                                              | 谭敬斌 |
 |  32  | Gillan, C. M., & Rutledge, R. B. (2021). Smartphones and the Neuroscience of Mental Health. *Annual Review of Neuroscience*, *44*(1), 129–151. https://doi.org/10.1146/annurev-neuro-101220-014053 |               温秀娟,张雨薇                | 2022年4月21日  |                                                              | 温秀娟 |
 |  33  | Thompson, B., van Opheusden, B., Sumers, T., & Griffiths, T. L. (2022). Complex cognitive algorithms preserved by selective social learning in experimental populations. *Science*, *376*(6588), 95–98. https://doi.org/10.1126/science.abn0915 |                   谢涵博                   | 2022年5月5日   | [视频](https://www.znext.com/webinar/3a039f5a-4c48-201e-20bd-0109fed255c4) | 谢涵博 |
-|      |                                                              |                                            |                |                                                              |        |
+|  34  | Bethlehem, R.A.I., Seidlitz, J., White, S.R. et al. Brain charts for the human lifespan. Nature 604, 525–533 (2022). https://doi.org/10.1038/s41586-022-04554-y |               谢珂 & 刘花卷                | 022年5月12日   |                                                              | 温秀娟 |
 |      |                                                              |                                            |                |                                                              |        |
 |      |                                                              |                                            |                |                                                              |        |
 |      |                                                              |                                            |                |                                                              |        |
