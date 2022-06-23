@@ -28,12 +28,13 @@
 
 ## CPoJC 2.0日程安排
 
-| 期号 |                             文献                             |      报告人       | 日期          | 主持人 |
-| :--: | :----------------------------------------------------------: | :---------------: | ------------- | ------ |
-|  36  |         因果发现和因果推断在健康科学研究应用案例分析         | 西南大学教授 宋刚 | 2022年6月21   |        |
-|  37  | Taschereau-Dumouchel, V., Cushing, C., & Lau, H. (2022). *Real-Time Functional MRI in the Treatment of Mental Health Disorders*. 31. |  中山大学 吕房艳  | 2022年6月23日 |        |
-|      | Lam, N. H., Borduqui, T., Hallak, J., Roque, A., Anticevic, A., Krystal, J. H., Wang, X.-J., & Murray, J. D. (2022). Effects of Altered Excitation-Inhibition Balance on Decision Making in a Cortical Circuit Model. *The Journal of Neuroscience*, *42*(6), 1035–1053. https://doi.org/10.1523/JNEUROSCI.1371-20.2021 |        TBA        | TBA           |        |
-|      |                                                              |                   |               |        |
+| 期号 |                             文献                             |     报告人      | 日期          | 主持人 |
+| :--: | :----------------------------------------------------------: | :-------------: | ------------- | ------ |
+|  36  | Hilbe, C., Šimsa, Š., Chatterjee, K., & Nowak, M. A. (2018). Evolution of cooperation in stochastic games. *Nature*, *559*(7713), 246–249. https://doi.org/10.1038/s41586-018-0277-x |     陆春雷      | 2022年6月30日 |        |
+|  37  | Taschereau-Dumouchel, V., Cushing, C., & Lau, H. (2022). *Real-Time Functional MRI in the Treatment of Mental Health Disorders*. 31. | 中山大学 吕房艳 | 2022年7月7日  |        |
+|      |                                                              |                 |               |        |
+|      |                                                              |                 |               |        |
+|      |                                                              |                 |               |        |
 
 ## CPoJC 往期报告
 
