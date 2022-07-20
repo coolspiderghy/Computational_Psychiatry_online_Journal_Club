@@ -30,6 +30,7 @@
 
 | 期号 | 文献 | 报告人 | 日期 | 主持人 |
 | :--: | :--: | :----: | ---- | ------ |
+|  38  |  Shine, J. M., Müller, E. J., Munn, B., Cabral, J., Moran, R. J., & Breakspear, M. (2021). Computational models link cellular mechanisms of neuromodulation to large-scale neural dynamics. Nature Neuroscience, 24(6), 765-776.    |              赫尔辛基大学 杨甜甜               | 2022年8月4日   |                                                              | 吕婷婷 |
 |      |      |        |      |        |
 |      |      |        |      |        |
 |      |      |        |      |        |
@@ -79,6 +80,8 @@
 |  35  | Reid, C. R., MacDonald, H., Mann, R. P., Marshall, J. A. R., Latty, T., & Garnier, S. (2016). Decision-making without a brain: How an amoeboid organism solves the two-armed bandit. *Journal of The Royal Society Interface*, *13*(119), 20160030. https://doi.org/10.1098/rsif.2016.0030 |                   程子健                   | 2022年5月25日  |                                                              | 吕婷婷 |
 |  36  | Hilbe, C., Šimsa, Š., Chatterjee, K., & Nowak, M. A. (2018). Evolution of cooperation in stochastic games. *Nature*, *559*(7713), 246–249. https://doi.org/10.1038/s41586-018-0277-x |                   陆春雷                   | 2022年6月30日  |                                                              | 吕婷婷 |
 |  37  | Taschereau-Dumouchel, V., Cushing, C., & Lau, H. (2022). *Real-Time Functional MRI in the Treatment of Mental Health Disorders*. 31. |              中山大学 吕房艳               | 2022年7月7日   |                                                              | 谭敬斌 |
+
+
 
 ## 推荐阅读
 
