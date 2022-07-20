@@ -31,12 +31,10 @@
 | 期号 | 文献 | 报告人 | 日期 | 主持人 |
 | :--: | :--: | :----: | ---- | ------ |
 |38| Raphael Koster, Jan Balaguer, Andrea Tacchetti, et. al(2022) Human-centered mechanism design with Democratic AI. https://doi.org/10.48550/arXiv.2201.11441  |陆春雷|2022年7月28日| |
-|  39  |  Shine, J. M., Müller, E. J., Munn, B., Cabral, J., Moran, R. J., & Breakspear, M. (2021). Computational models link cellular mechanisms of neuromodulation to large-scale neural dynamics. Nature Neuroscience, 24(6), 765-776.    |              赫尔辛基大学 杨甜甜               | 2022年8月4日   |   吕婷婷 |
+|  39  |  Shine, J. M., Müller, E. J., Munn, B., Cabral, J., Moran, R. J., & Breakspear, M. (2021). Computational models link cellular mechanisms of neuromodulation to large-scale neural dynamics. Nature Neuroscience, 24(6), 765-776.    |              杨甜甜               | 2022年8月4日   |   吕婷婷 |
 |      |      |        |      |        |
 |      |      |        |      |        |
-|      |      |        |      |        |
-|      |      |        |      |        |
-|      |      |        |      |        |
+
 
 ## CPoJC 往期报告
 
