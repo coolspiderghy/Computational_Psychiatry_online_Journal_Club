@@ -30,7 +30,7 @@
 
 | 期号 | 文献 | 报告人 | 日期 | 主持人 |
 | :--: | :--: | :----: | ---- | ------ |
-|  38  |  Shine, J. M., Müller, E. J., Munn, B., Cabral, J., Moran, R. J., & Breakspear, M. (2021). Computational models link cellular mechanisms of neuromodulation to large-scale neural dynamics. Nature Neuroscience, 24(6), 765-776.    |              赫尔辛基大学 杨甜甜               | 2022年8月4日   |                                                              | 吕婷婷 |
+|  38  |  Shine, J. M., Müller, E. J., Munn, B., Cabral, J., Moran, R. J., & Breakspear, M. (2021). Computational models link cellular mechanisms of neuromodulation to large-scale neural dynamics. Nature Neuroscience, 24(6), 765-776.    |              赫尔辛基大学 杨甜甜               | 2022年8月4日   |   吕婷婷 |
 |      |      |        |      |        |
 |      |      |        |      |        |
 |      |      |        |      |        |
