@@ -25,7 +25,7 @@
 
 | 期号 | 文献 | 报告人 | 日期 |相关材料 | 主持人 |
 | :--: | :--: | :----: | ---- |---    | ------ |
-|  41    |      |        |      |      |     |
+|  41    |   Aspen H. Yoo, Anne G. E. Collins; How Working Memory and Reinforcement Learning Are Intertwined: A Cognitive, Neural, and Computational Perspective. J Cogn Neurosci 2022; 34 (4): 551–568. doi: https://doi.org/10.1162/jocn_a_01808   |   zuozhaoyu,刘花卷     |   NMA project 分享 + 文献分享   |      |     |
 |  42    |      |        |      |      |     |
 |  43    |      |        |      |      |     |
 |  44    |      |        |      |      |     |
