@@ -25,7 +25,10 @@
 
 | 期号 | 文献 | 报告人 | 日期 |相关材料 | 主持人 |
 | :--: | :--: | :----: | ---- |---    | ------ |
-|      |      |        |      |      |     |
+|  41    |      |        |      |      |     |
+|  42    |      |        |      |      |     |
+|  43    |      |        |      |      |     |
+|  44    |      |        |      |      |     |
 
 
 ## CPoJC 往期报告
@@ -46,6 +49,7 @@
 |  12  | van de Schoot, R., Depaoli, S., King, R., Kramer, B., Märtens, K., Tadesse, M. G., Vannucci, M., Gelman, A., Veen, D., Willemsen, J., & Yau, C. (2021). Bayesian statistics and modelling. *Nature Reviews Methods Primers*, *1*(1), 1–26. https://doi.org/10.1038/s43586-020-00001-2 |                   谭敬斌                   | 2021年6月24日  |                                                              |        |
 
 ## CPoJC 2.0   
+
 | 期号 | 文献| 报告人| 日期 | 相关材料  | 主持人 |
 | :--: | :---- | :-------: | ----- | --- | ---- |
 |  13  | Dwyer, D. B., Falkai, P., & Koutsouleris, N. (2018). Machine Learning Approaches for Clinical Psychology and Psychiatry. *Annual Review of Clinical Psychology*, *14*(1), 91–118. https://doi.org/10.1146/annurev-clinpsy-032816-045037 |                   吕婷婷                   | 2021年10月21日 | [视频](https://www.bilibili.com/video/BV15L411M7zm/)         | 耿海洋 |
