@@ -28,12 +28,9 @@
 
 ## CPoJC 2.0日程安排
 
-| 期号 | 文献 | 报告人 | 日期 | 主持人 |
-| :--: | :--: | :----: | ---- | ------ |
-|38| Raphael Koster, Jan Balaguer, Andrea Tacchetti, et. al(2022) Human-centered mechanism design with Democratic AI. https://doi.org/10.48550/arXiv.2201.11441  |陆春雷|2022年7月28日| |
-|  39  |  Shine, J. M., Müller, E. J., Munn, B., Cabral, J., Moran, R. J., & Breakspear, M. (2021). Computational models link cellular mechanisms of neuromodulation to large-scale neural dynamics. Nature Neuroscience, 24(6), 765-776.    |              杨甜甜               | 2022年8月4日   |   吕婷婷 |
-|      |      |        |      |        |
-|      |      |        |      |        |
+| 期号 | 文献 | 报告人 | 日期 |相关材料 | 主持人 |
+| :--: | :--: | :----: | ---- |---    | ------ |
+|      |      |        |      |      |     |
 
 
 ## CPoJC 往期报告
@@ -79,7 +76,9 @@
 |  35  | Reid, C. R., MacDonald, H., Mann, R. P., Marshall, J. A. R., Latty, T., & Garnier, S. (2016). Decision-making without a brain: How an amoeboid organism solves the two-armed bandit. *Journal of The Royal Society Interface*, *13*(119), 20160030. https://doi.org/10.1098/rsif.2016.0030 |                   程子健                   | 2022年5月25日  |                                                              | 吕婷婷 |
 |  36  | Hilbe, C., Šimsa, Š., Chatterjee, K., & Nowak, M. A. (2018). Evolution of cooperation in stochastic games. *Nature*, *559*(7713), 246–249. https://doi.org/10.1038/s41586-018-0277-x |                   陆春雷                   | 2022年6月30日  |                                                              | 吕婷婷 |
 |  37  | Taschereau-Dumouchel, V., Cushing, C., & Lau, H. (2022). *Real-Time Functional MRI in the Treatment of Mental Health Disorders*. 31. |              中山大学 吕房艳               | 2022年7月7日   |                                                              | 谭敬斌 |
-
+|38| Raphael Koster, Jan Balaguer, Andrea Tacchetti, et. al(2022) Human-centered mechanism design with Democratic AI. https://doi.org/10.48550/arXiv.2201.11441  |陆春雷|2022年7月28日| [会议回放](https://www.socraticlab.com.cn/webinar/3a054f7b-fa86-ef1a-81c7-1b69569c0997) |温秀娟|
+|  39  |  Shine, J. M., Müller, E. J., Munn, B., Cabral, J., Moran, R. J., & Breakspear, M. (2021). Computational models link cellular mechanisms of neuromodulation to large-scale neural dynamics. Nature Neuroscience, 24(6), 765-776.    |              杨甜甜               | 2022年8月4日   |  [会议回放](https://www.socraticlab.com.cn/webinar/3a057851-973d-fb77-440d-396514e00bcd)  | 吕婷婷 |
+|  40    |  Cabral, J., Kringelbach, M. L., & Deco, G. (2017). Functional connectivity dynamically evolves on multiple time-scales over a static structural connectome: Models and mechanisms. Neuroimage, 160, 84-96. doi:https://doi.org/10.1016/j.neuroimage.2017.03.045    |    吕婷婷    |  2022年8月11日    |  [会议回放](https://www.socraticlab.com.cn/webinar/3a0598c7-50a9-de8a-fb80-07d2ada05364)    |吕婷婷   |
 
 
 ## 推荐阅读
