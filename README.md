@@ -1,8 +1,3 @@
-​	
-
-
-
-
 
 # 计算精神病学在线文献报告讨论会(Computational psychiatry online journal club(CPoJC))
 
@@ -49,12 +44,15 @@
 |  10  | Lei, H., Mochizuki, Y., Chen, C., Hagiwara, K., Hirotsu, M., Matsubara, T., & Nakagawa, S. (2021). Sex difference in the weighting of expected uncertainty under chronic stress. *Scientific Reports*, *11*(1), 8700. https://doi.org/10.1038/s41598-021-88155-1 |                   雷慧洁                   | 2021年5月13日  | [PPT](https://github.com/coolspiderghy/Computational_Psychiatry_online_Journal_Club/blob/main/SM/Sex%20difference%20in%20the%20weighting%20of%20expected%20uncertainty%20under%20chronic%20stress-Huijie%20Lei.pdf) |        |
 |  11  | van Baar, J. M., Chang, L. J., & Sanfey, A. G. (2019). The computational and neural substrates of moral strategies in social decision-making. *Nature Communications*, *10*(1), 1483. https://doi.org/10.1038/s41467-019-09161-6 |                   金悦宁                   | 2021年5月27 日 | [视频](https://www.bilibili.com/video/BV1TU4y1j7jU/), [PPT](https://github.com/coolspiderghy/Computational_Psychiatry_online_Journal_Club/blob/main/SM/Biased%20evaluations%20emerge%20from%20inferring%20hidden%20causes%20.pdf) |        |
 |  12  | van de Schoot, R., Depaoli, S., King, R., Kramer, B., Märtens, K., Tadesse, M. G., Vannucci, M., Gelman, A., Veen, D., Willemsen, J., & Yau, C. (2021). Bayesian statistics and modelling. *Nature Reviews Methods Primers*, *1*(1), 1–26. https://doi.org/10.1038/s43586-020-00001-2 |                   谭敬斌                   | 2021年6月24日  |                                                              |        |
-|      | CPoJC 2.0                                                    |                                            |                |                                                              |        |
+
+## CPoJC 2.0   
+| 期号 | 文献| 报告人| 日期 | 相关材料  | 主持人 |
+| :--: | :---- | :-------: | ----- | --- | ---- |
 |  13  | Dwyer, D. B., Falkai, P., & Koutsouleris, N. (2018). Machine Learning Approaches for Clinical Psychology and Psychiatry. *Annual Review of Clinical Psychology*, *14*(1), 91–118. https://doi.org/10.1146/annurev-clinpsy-032816-045037 |                   吕婷婷                   | 2021年10月21日 | [视频](https://www.bilibili.com/video/BV15L411M7zm/)         | 耿海洋 |
 |  14  | Suthaharan, P., Reed, E. J., Leptourgos, P., Kenney, J. G., Uddenberg, S., Mathys, C. D., Litman, L., Robinson, J., Moss, A. J., Taylor, J. R., Groman, S. M., & Corlett, P. R. (2021). Paranoia and belief updating during the COVID-19 crisis. *Nature Human Behaviour*, *5*(9), 1190–1202. https://doi.org/10.1038/s41562-021-01176-8 |                   黄丽芹                   | 2021年10月28日 | [视频](https://www.bilibili.com/video/BV1g34y1o7dW/)         | 祝小喜 |
 |  15  | Lake, B. M., Ullman, T. D., Tenenbaum, J. B., & Gershman, S. J. (2017). Building machines that learn and think like people. *Behavioral and Brain Sciences*, *40*. https://doi.org/10.1017/S0140525X16001837 |               谢涵博，方泽鸣               | 2021年11月4日  | [视频](https://www.bilibili.com/video/BV1Fg411N796/)         | 祝小喜 |
-|  16  | Brown, V. M., Zhu, L., Solway, A., Wang, J. M., McCurry, K. L., King-Casas, B., & Chiu, P. H. (2021). Reinforcement Learning Disruptions in Individuals With Depression and Sensitivity to Symptom Change Following Cognitive Behavioral Therapy. *JAMA Psychiatry*, *78*(10), 1113–1122. https://doi.org/10.1001/jamapsychiatry.2021.1844 |                   雷慧洁                   | 2021年11月11日 | [视频](https://www.bilibili.com/video/BV1Pf4y1K72L/)         | 吕婷婷 |
-|  17  | Wilson, R. C., & Collins, A. G. (2019). Ten simple rules for the computational modeling of behavioral data. *ELife*, *8*, e49547. https://doi.org/10.7554/eLife.49547 |                王鑫, 刘花卷                | 2021年11月18日 | [视频](https://www.bilibili.com/video/BV1TL4y1i7HK/), [script](https://github.com/lynn0503/Python-Code-for-Ten-rules) | 谢涵博 |
+|  16  | Brown, V. M., Zhu, L., Solway, A., Wang, J. M., McCurry, K. L., King-Casas, B., & Chiu, P. H. (2021). Reinforcement Learning Disruptions in Individuals With Depression and Sensitivity to Symptom Change Following Cognitive Behavioral Therapy. *JAMA Psychiatry*, *78*(10), 1113–1122. https://doi.org/10.1001/jamapsychiatry.2021.1844 | 雷慧洁  | 2021年11月11日 | [视频](https://www.bilibili.com/video/BV1Pf4y1K72L/)         | 吕婷婷 |
+|  17  | Wilson, R. C., & Collins, A. G. (2019). Ten simple rules for the computational modeling of behavioral data. *ELife*, *8*, e49547. https://doi.org/10.7554/eLife.49547 | 王鑫, 刘花卷      | 2021年11月18日 | [视频](https://www.bilibili.com/video/BV1TL4y1i7HK/), [script](https://github.com/lynn0503/Python-Code-for-Ten-rules) | 谢涵博 |
 |  18  | Kang Huang, Yaning Han, Ke Chen, Hongli Pan, Gaoyang Zhao, Wenling Yi, Xiaoxi Li, Siyuan Liu, Pengfei Wei & Liping Wang（2021）.A hierarchical 3D-motion learning framework for animal spontaneous behavior mapping. Nature Communications |                   蔡盛源                   | 2021年11月25日 | [视频](https://www.bilibili.com/video/BV1Tq4y1r7GU/)         | 吕婷婷 |
 |      | Ten Tips for Scientific Journal Club                         |                   耿海洋                   | 2021年11月25日 | [视频](https://www.bilibili.com/video/BV1qL4y1p7yu/)         | 吕婷婷 |
 |  19  | Peterson, Joshua C., David D. Bourgin, Mayank Agrawal, Daniel Reichman, and Thomas L. Griffiths. 2021. “Using Large-Scale Experiments and Machine Learning to Discover Theories of Human Decision-Making |                  Deborah                   | 2021年12月2日  |                                                              | 谢涵博 |
