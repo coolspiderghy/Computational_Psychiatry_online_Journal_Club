@@ -25,8 +25,8 @@
 
 | 期号 | 文献 | 报告人 | 日期 |相关材料 | 主持人 |
 | :--: | :--: | :----: | ---- |---    | ------ |
-|  41    |   Aspen H. Yoo, Anne G. E. Collins; How Working Memory and Reinforcement Learning Are Intertwined: A Cognitive, Neural, and Computational Perspective. J Cogn Neurosci 2022; 34 (4): 551–568. doi: https://doi.org/10.1162/jocn_a_01808   |   zuozhaoyu,刘花卷     |   NMA project 分享 + 文献分享   |      |     |
-|  42    |      |        |      |      |     |
+|  42    |   Roelofs, K., Dayan, P. Freezing revisited: coordinated autonomic and central optimization of threat coping. Nat Rev Neurosci 23, 568–580 (2022). https://doi.org/10.1038/s41583-022-00608-2   |   刘威     |   2022年9月1日   |      |  耿海洋   |
+
 |  43    |      |        |      |      |     |
 |  44    |      |        |      |      |     |
 
@@ -81,6 +81,7 @@
 |38| Raphael Koster, Jan Balaguer, Andrea Tacchetti, et. al(2022) Human-centered mechanism design with Democratic AI. https://doi.org/10.48550/arXiv.2201.11441  |陆春雷|2022年7月28日| [会议回放](https://www.socraticlab.com.cn/webinar/3a054f7b-fa86-ef1a-81c7-1b69569c0997) |温秀娟|
 |  39  |  Shine, J. M., Müller, E. J., Munn, B., Cabral, J., Moran, R. J., & Breakspear, M. (2021). Computational models link cellular mechanisms of neuromodulation to large-scale neural dynamics. Nature Neuroscience, 24(6), 765-776.    |              杨甜甜               | 2022年8月4日   |  [会议回放](https://www.socraticlab.com.cn/webinar/3a057851-973d-fb77-440d-396514e00bcd)  | 吕婷婷 |
 |  40    |  Cabral, J., Kringelbach, M. L., & Deco, G. (2017). Functional connectivity dynamically evolves on multiple time-scales over a static structural connectome: Models and mechanisms. Neuroimage, 160, 84-96. doi:https://doi.org/10.1016/j.neuroimage.2017.03.045    |    吕婷婷    |  2022年8月11日    |  [会议回放](https://www.socraticlab.com.cn/webinar/3a0598c7-50a9-de8a-fb80-07d2ada05364)    |吕婷婷   |
+|  41    |   Aspen H. Yoo, Anne G. E. Collins; How Working Memory and Reinforcement Learning Are Intertwined: A Cognitive, Neural, and Computational Perspective. J Cogn Neurosci 2022; 34 (4): 551–568. doi: https://doi.org/10.1162/jocn_a_01808   |   zuozhaoyu,刘花卷     |   NMA project 分享 + 文献分享   |      |     |
 
 
 ## 推荐阅读
